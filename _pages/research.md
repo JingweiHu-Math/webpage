@@ -15,7 +15,6 @@ My research is mainly focused on development and analysis of efficient and struc
 
 
 
-
 # Publications
 ## Preprint
 [PP7] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [arXiv].
@@ -31,6 +30,7 @@ My research is mainly focused on development and analysis of efficient and struc
 [PP2] J. Hu and R. Shu. On the uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for stiff hyperbolic relaxation systems and kinetic equations. Submitted, 2019 [arXiv].
 
 [PP1] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. Submitted, 2019 [arXiv].
+
 ## In Refereed Journals
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [arXiv].
 
@@ -110,6 +110,7 @@ My research is mainly focused on development and analysis of efficient and struc
 [C2] Y. Chen, S. Fomel, and J. Hu. Iterative deblending of simultaneous-source seismic data using shaping regularization. In 83rd Annual International Meeting, SEG, Expanded Abstracts, pages 119-125, 2013 [link][pdf].
 
 [C1] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for the hyperbolic Radon transform. In 82nd Annual International Meeting, SEG, Expanded Abstracts, pages 1-5, 2012 [link][pdf].
+
 ## Book Chapters
 [BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, Uncertainty Quantification for Hyperbolic and Kinetic Equations, pages 193-229. SEMA SIMAI Springer Series, 2017 [link][pdf].
 
