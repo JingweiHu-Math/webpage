@@ -35,9 +35,11 @@ Submitted:
 
 In Refereed Journals
 ======
+
 Accepted:
 ======
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [arXiv].
+
 Published:
 ======
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [link][pdf].
@@ -98,3 +100,28 @@ Published:
 
 [J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. Kinet. Relat. Models, 4:517-530, 2011 [link][pdf].
 
+Book Chapters
+======
+[BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, Uncertainty Quantification for Hyperbolic and Kinetic Equations, pages 193-229. SEMA SIMAI Springer Series, 2017 [link][pdf].
+
+[BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues, chapter 5, pages 103-129. North-Holland, 2017 [link][pdf].
+
+In Refereed Conference Proceedings
+======
+[C9] S. Jaiswal, J. Hu, J. Brillon, and A. Alexeenko. A discontinuous Galerkin fast spectral method for multi-species full Boltzmann on streaming multi-processors. In Proceedings of the Platform for Advanced Scientific Computing Conference (PASC ’19), Switzerland, 2019.
+
+[C8] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In Proceedings of the 31st International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 2132:060001, 2019 [link][pdf].
+
+[C7] J. Hu, S. Jin, and R. Shu. A stochastic Galerkin method for the Fokker-Planck-Landau equation with random uncertainties. In C. Klingenberg and M. Westdickenberg, editors, Theory, Numerics and Applications of Hyperbolic Problems II. HYP 2016, Springer Proceedings in Mathematics & Statistics, 2018 [link][pdf].
+
+[C6] G. Fang, J. Hu, and S. Fomel. Weighted least square based lowrank finite difference for seismic wave extrapolation. In 85th Annual International Meeting, SEG, Expanded Abstracts, pages 3554-3559, 2015 [link][pdf].
+
+[C5] I. Gamba, J. Haack, and J. Hu. A fast conservative spectral solver for the nonlinear Boltzmann collision operator. In Proceedings of the 29th International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 1628:1003-1008, 2014 [link][pdf].
+
+[C4] J. Sun, S. Fomel, and J. Hu. Least-squares reverse-time migration using one-step two-way wave extrapolation by non-stationary phase shift. In 84th Annual International Meeting, SEG, Expanded Abstracts, pages 3967-3973, 2014 [link][pdf].
+
+[C3] J. Hu, S. Fomel, and L. Ying. A fast algorithm for 3D azimuthally anisotropic velocity scan. In 83rd Annual International Meeting, SEG, Expanded Abstracts, pages 4795-4799, 2013 [link][pdf].
+
+[C2] Y. Chen, S. Fomel, and J. Hu. Iterative deblending of simultaneous-source seismic data using shaping regularization. In 83rd Annual International Meeting, SEG, Expanded Abstracts, pages 119-125, 2013 [link][pdf].
+
+[C1] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for the hyperbolic Radon transform. In 82nd Annual International Meeting, SEG, Expanded Abstracts, pages 1-5, 2012 [link][pdf].
