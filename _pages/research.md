@@ -16,7 +16,7 @@ My research is mainly focused on development and analysis of efficient and struc
 
 
 # Publications
-* Preprint
+## Preprint
 [PP7] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [arXiv].
 
 [PP6] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [arXiv].
@@ -31,7 +31,7 @@ My research is mainly focused on development and analysis of efficient and struc
 
 [PP1] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. Submitted, 2019 [arXiv].
 
-* In Refereed Journals
+## In Refereed Journals
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [arXiv].
 
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [link][pdf].
@@ -92,7 +92,7 @@ My research is mainly focused on development and analysis of efficient and struc
 
 [J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. Kinet. Relat. Models, 4:517-530, 2011 [link][pdf].
 
-* In Refereed Conference Proceedings
+## In Refereed Conference Proceedings
 [C9] S. Jaiswal, J. Hu, J. Brillon, and A. Alexeenko. A discontinuous Galerkin fast spectral method for multi-species full Boltzmann on streaming multi-processors. In Proceedings of the Platform for Advanced Scientific Computing Conference (PASC ’19), Switzerland, 2019.
 
 [C8] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In Proceedings of the 31st International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 2132:060001, 2019 [link][pdf].
@@ -111,7 +111,7 @@ My research is mainly focused on development and analysis of efficient and struc
 
 [C1] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for the hyperbolic Radon transform. In 82nd Annual International Meeting, SEG, Expanded Abstracts, pages 1-5, 2012 [link][pdf].
 
-* Book Chapters
+## Book Chapters
 [BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, Uncertainty Quantification for Hyperbolic and Kinetic Equations, pages 193-229. SEMA SIMAI Springer Series, 2017 [link][pdf].
 
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues, chapter 5, pages 103-129. North-Holland, 2017 [link][pdf].
