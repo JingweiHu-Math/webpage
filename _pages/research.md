@@ -16,9 +16,6 @@ My research is mainly focused on development and analysis of efficient and struc
 
 Publications
 ======
-
-Submitted:
-======
 [PP7] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [arXiv].
 
 [PP6] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [arXiv].
@@ -35,13 +32,8 @@ Submitted:
 
 In Refereed Journals
 ======
-
-Accepted:
-======
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [arXiv].
 
-Published:
-======
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [link][pdf].
 
 [J28] J. Hu, J. Shen, and Y. Wang. A Petrov-Galerkin spectral method for the inelastic Boltzmann equation using mapped Chebyshev functions. Kinet. Relat. Models, 13:677-702, 2020 [link][pdf].
