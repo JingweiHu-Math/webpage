@@ -15,7 +15,6 @@ Current Teaching
 
 
 ## Past Teaching
-======
 * Spring 2020, Spring 2017, Fall 2016, Fall 2015, Spring 2015: MA 303 Differential Equations and Partial Differential Equations for Engineering and the Sciences
 * Fall 2019: MA 514 / CS 514 Numerical Analysis
 * Fall 2018: MA 366 Ordinary Differential Equations
