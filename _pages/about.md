@@ -14,9 +14,9 @@ and [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE)
 My general research interests lie in numerical analysis and scientific computing.
 
 ### Contact Information
-#### 150 N. University Street
-#### West Lafayette, IN 47907, USA
+150 N. University Street
+West Lafayette, IN 47907, USA
 
-#### Office: MATH 416
-#### Email: jingweihu@purdue.edu
-#### Phone(o): (765) 496-0056
+Office: MATH 416
+Email: jingweihu@purdue.edu
+Phone(o): (765) 496-0056
