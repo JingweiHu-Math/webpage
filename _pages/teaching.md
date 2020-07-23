@@ -11,7 +11,7 @@ redirect_from:
 
 Current Teaching
 ======
-## Fall 2020: MA 416 Probability
+Fall 2020: MA 416 Probability
 
 
 ## Past Teaching at Purdue
