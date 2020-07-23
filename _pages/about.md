@@ -14,7 +14,7 @@ and [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE)
 My general research interests lie in numerical analysis and scientific computing.
 
 ### Contact Information
-150 N. University Street
+150 N. University Street\\
 West Lafayette, IN 47907, USA
 
 Office: MATH 416
