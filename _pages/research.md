@@ -16,6 +16,9 @@ My research is mainly focused on development and analysis of efficient and struc
 
 Publications
 ======
+
+## Preprint
+
 [PP7] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [arXiv].
 
 [PP6] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [arXiv].
