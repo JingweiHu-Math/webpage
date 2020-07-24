@@ -19,7 +19,7 @@ Professional Appointments
 * Associate Professor, Department of Mathematics, Purdue University, 2019 - present
 * Associate Professor (by courtesy), School of Aeronautics and Astronautics, Purdue University, 2020 - present
 * Assistant Professor, Department of Mathematics, Purdue University, 2014 - 2019
-* Postdoctoral Fellow, [ICES](https://www.oden.utexas.edu) and [BEG](http://www.beg.utexas.edu), The University of Texas at Austin, 2011 - 2014
+* Postdoctoral Fellow, ICES and BEG, The University of Texas at Austin, 2011 - 2014
   
 Awards
 ======
