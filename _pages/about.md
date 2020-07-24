@@ -15,4 +15,4 @@ My general research interests lie in numerical analysis and scientific computing
 
 
 ## News
-I am co-organizing a Six-Month Scientific Program at Issac Newton Insitute: [Frontiers in kinetic theory: connecting microscopic to macroscopic scales](https://www.newton.ac.uk/event/fkt) - KineCon, Cambridge, UK, January to June, 2022.
+I am co-organizing a Six-Month Scientific Program at Issac Newton Insitute: [Frontiers in kinetic theory: connecting microscopic to macroscopic scales - KineCon](https://www.newton.ac.uk/event/fkt), Cambridge, UK, January to June, 2022.
