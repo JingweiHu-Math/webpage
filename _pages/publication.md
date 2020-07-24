@@ -28,9 +28,9 @@ redirect_from:
 ## In Refereed Journals
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [[arXiv](https://arxiv.org/abs/1811.11502)].
 
-[J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S2590055220300184)][pdf].
+[J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S2590055220300184)][[pdf](http://jingweihu-math.github.io/webpage/files/CHWW20.pdf)].
 
-[J28] J. Hu, J. Shen, and Y. Wang. A Petrov-Galerkin spectral method for the inelastic Boltzmann equation using mapped Chebyshev functions. Kinet. Relat. Models, 13:677-702, 2020 [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2020023)][[pdf](http://jingweihu-math.github.io/webpage/files/paper1.pdf)].
+[J28] J. Hu, J. Shen, and Y. Wang. A Petrov-Galerkin spectral method for the inelastic Boltzmann equation using mapped Chebyshev functions. Kinet. Relat. Models, 13:677-702, 2020 [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2020023)][[pdf](http://jingweihu-math.github.io/webpage/files/HSW20.pdf)].
 
 [J27] J. Hu and X. Huang. A fully discrete positivity-preserving and energy-dissipative finite difference scheme for Poisson-Nernst-Planck equations. Numer. Math., 145:77-115, 2020 [[link](https://link.springer.com/article/10.1007/s00211-020-01109-z)][pdf].
 
