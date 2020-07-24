@@ -34,9 +34,9 @@ redirect_from:
 
 [J27] J. Hu and X. Huang. A fully discrete positivity-preserving and energy-dissipative finite difference scheme for Poisson-Nernst-Planck equations. Numer. Math., 145:77-115, 2020 [[link](https://link.springer.com/article/10.1007/s00211-020-01109-z)][pdf].
 
-[J26] J. Hu and R. Shu. A second-order asymptotic-preserving and positivity-preserving exponential Runge-Kutta method for a class of stiff kinetic equations. SIAM Multiscale Model. Simul., 17:1123-1146, 2019 [link][pdf].
+[J26] J. Hu and R. Shu. A second-order asymptotic-preserving and positivity-preserving exponential Runge-Kutta method for a class of stiff kinetic equations. SIAM Multiscale Model. Simul., 17:1123-1146, 2019 [[link](https://epubs.siam.org/doi/abs/10.1137/18M1226774)][pdf].
 
-[J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. J. Comput. Phys., 397:108838, 2019 [[link](https://epubs.siam.org/doi/abs/10.1137/18M1226774)][pdf].
+[J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. J. Comput. Phys., 397:108838, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999119305224)][pdf].
 
 [J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts. Phys. Fluids, 31:082002, 2019 (special issue on Direct Simulation Monte Carlo - The Legacy of Graeme A. Bird) [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)][pdf].
 
