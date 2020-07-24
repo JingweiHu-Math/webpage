@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, 2006, Peking University, Beijing, China
 * Ph.D. in Mathematics, 2011, University of Wisconsin-Madison, WI, USA
-  * Advisor: Professor [Shi Jin](https://ins.sjtu.edu.cn/faculty/jinshi)
+ * Advisor: Professor [Shi Jin](https://ins.sjtu.edu.cn/faculty/jinshi)
 
 Professional Appointments
 ======
