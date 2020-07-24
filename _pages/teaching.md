@@ -11,7 +11,7 @@ redirect_from:
 
 Current Teaching
 ======
-Fall 2020: MA 416 Probability
+[Fall 2020: MA 416 Probability](https://jingweihu-math.github.io/webpage/teaching/2014-spring-teaching-1)
 
 
 ## Past Teaching at Purdue
