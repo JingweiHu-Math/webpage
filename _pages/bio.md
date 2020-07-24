@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, 2006, Peking University, Beijing, China
-* Ph.D in Mathematics, 2011, University of Wisconsin-Madison, WI, USA
+* Ph.D. in Mathematics, 2011, University of Wisconsin-Madison, WI, USA
 
 Professional Appointments
 ======
