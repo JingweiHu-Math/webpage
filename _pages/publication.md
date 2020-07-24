@@ -30,7 +30,7 @@ redirect_from:
 
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [link][pdf].
 
-[J28] J. Hu, J. Shen, and Y. Wang. A Petrov-Galerkin spectral method for the inelastic Boltzmann equation using mapped Chebyshev functions. Kinet. Relat. Models, 13:677-702, 2020 [link][pdf].
+[J28] J. Hu, J. Shen, and Y. Wang. A Petrov-Galerkin spectral method for the inelastic Boltzmann equation using mapped Chebyshev functions. Kinet. Relat. Models, 13:677-702, 2020 [link][pdf](http://jingweihu-math.github.io/files/paper1.pdf).
 
 [J27] J. Hu and X. Huang. A fully discrete positivity-preserving and energy-dissipative finite difference scheme for Poisson-Nernst-Planck equations. Numer. Math., 145:77-115, 2020 [link][pdf].
 
