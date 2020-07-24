@@ -32,59 +32,59 @@ redirect_from:
 
 [J28] J. Hu, J. Shen, and Y. Wang. A Petrov-Galerkin spectral method for the inelastic Boltzmann equation using mapped Chebyshev functions. Kinet. Relat. Models, 13:677-702, 2020 [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2020023)][[pdf](http://jingweihu-math.github.io/webpage/files/HSW20.pdf)].
 
-[J27] J. Hu and X. Huang. A fully discrete positivity-preserving and energy-dissipative finite difference scheme for Poisson-Nernst-Planck equations. Numer. Math., 145:77-115, 2020 [[link](https://link.springer.com/article/10.1007/s00211-020-01109-z)][pdf].
+[J27] J. Hu and X. Huang. A fully discrete positivity-preserving and energy-dissipative finite difference scheme for Poisson-Nernst-Planck equations. Numer. Math., 145:77-115, 2020 [[link](https://link.springer.com/article/10.1007/s00211-020-01109-z)][[pdf](http://jingweihu-math.github.io/webpage/files/HH20.pdf)].
 
-[J26] J. Hu and R. Shu. A second-order asymptotic-preserving and positivity-preserving exponential Runge-Kutta method for a class of stiff kinetic equations. SIAM Multiscale Model. Simul., 17:1123-1146, 2019 [[link](https://epubs.siam.org/doi/abs/10.1137/18M1226774)][pdf].
+[J26] J. Hu and R. Shu. A second-order asymptotic-preserving and positivity-preserving exponential Runge-Kutta method for a class of stiff kinetic equations. SIAM Multiscale Model. Simul., 17:1123-1146, 2019 [[link](https://epubs.siam.org/doi/abs/10.1137/18M1226774)][[pdf](http://jingweihu-math.github.io/webpage/files/HS19.pdf)].
 
-[J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. J. Comput. Phys., 397:108838, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999119305224)][pdf].
+[J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. J. Comput. Phys., 397:108838, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999119305224)][[pdf](http://jingweihu-math.github.io/webpage/files/HJS19.pdf)].
 
-[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts. Phys. Fluids, 31:082002, 2019 (special issue on Direct Simulation Monte Carlo - The Legacy of Graeme A. Bird) [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)][pdf].
+[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts. Phys. Fluids, 31:082002, 2019 (special issue on Direct Simulation Monte Carlo - The Legacy of Graeme A. Bird) [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)][[pdf](http://jingweihu-math.github.io/webpage/files/JPSSHA19.pdf)].
 
-[J23] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the multi-species Boltzmann equation. Comput. Methods Appl. Mech. Engrg., 352:56-84, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S004578251930218X)][pdf][[code](https://github.com/jaisw7/dgfs1D_gpu)].
+[J23] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the multi-species Boltzmann equation. Comput. Methods Appl. Mech. Engrg., 352:56-84, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S004578251930218X)][[pdf](http://jingweihu-math.github.io/webpage/files/JAH19_2.pdf)][[code](https://github.com/jaisw7/dgfs1D_gpu)].
 
-[J22] J. Hu and Z. Ma. A fast spectral method for the inelastic Boltzmann collision operator and application to heated granular gases. J. Comput. Phys., 385:119-134, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S002199911930107X)][pdf].
+[J22] J. Hu and Z. Ma. A fast spectral method for the inelastic Boltzmann collision operator and application to heated granular gases. J. Comput. Phys., 385:119-134, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S002199911930107X)][[pdf](http://jingweihu-math.github.io/webpage/files/HM19.pdf)].
 
-[J21] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the full Boltzmann equation with general collision kernels. J. Comput. Phys., 378:178-208, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999118307198)][pdf][[code](https://github.com/jaisw7/dgfs1D_gpu)].
+[J21] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the full Boltzmann equation with general collision kernels. J. Comput. Phys., 378:178-208, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999118307198)][[pdf](http://jingweihu-math.github.io/webpage/files/JAH19_1.pdf)][[code](https://github.com/jaisw7/dgfs1D_gpu)].
 
-[J20] J. Hu, R. Shu, and X. Zhang. Asymptotic-preserving and positivity-preserving implicit-explicit schemes for the stiff BGK equation. SIAM J. Numer. Anal., 56:942-973, 2018 [[link](https://epubs.siam.org/doi/abs/10.1137/17M1144362)][pdf].
+[J20] J. Hu, R. Shu, and X. Zhang. Asymptotic-preserving and positivity-preserving implicit-explicit schemes for the stiff BGK equation. SIAM J. Numer. Anal., 56:942-973, 2018 [[link](https://epubs.siam.org/doi/abs/10.1137/17M1144362)][[pdf](http://jingweihu-math.github.io/webpage/files/HSZ18.pdf)].
 
-[J19] J. Hu and X. Zhang. On a class of implicit-explicit Runge-Kutta schemes for stiff kinetic equations preserving the Navier-Stokes limit. J. Sci. Comput., 73:797-818, 2017 (special issue dedicated to Chi-Wang Shu on the occasion of his 60th birthday) [[link](https://link.springer.com/article/10.1007/s10915-017-0499-3)][pdf].
+[J19] J. Hu and X. Zhang. On a class of implicit-explicit Runge-Kutta schemes for stiff kinetic equations preserving the Navier-Stokes limit. J. Sci. Comput., 73:797-818, 2017 (special issue dedicated to Chi-Wang Shu on the occasion of his 60th birthday) [[link](https://link.springer.com/article/10.1007/s10915-017-0499-3)][[pdf](http://jingweihu-math.github.io/webpage/files/HZ17.pdf)].
 
-[J18] I. Gamba, J. Haack, C. Hauck, and J. Hu. A fast spectral method for the Boltzmann collision operator with general collision kernels. SIAM J. Sci. Comput., 39:B658-B674, 2017 [[link](https://epubs.siam.org/doi/abs/10.1137/16M1096001)][pdf].
+[J18] I. Gamba, J. Haack, C. Hauck, and J. Hu. A fast spectral method for the Boltzmann collision operator with general collision kernels. SIAM J. Sci. Comput., 39:B658-B674, 2017 [[link](https://epubs.siam.org/doi/abs/10.1137/16M1096001)][[pdf](http://jingweihu-math.github.io/webpage/files/GHHH17.pdf)].
 
-[J17] R. Shu, J. Hu, and S. Jin. A stochastic Galerkin method for the Boltzmann equation with multi-dimensional random inputs using sparse wavelet bases. Numer. Math. Theor. Meth. Appl., 10:465-488, 2017 (special issue dedicated to Zhenhuan Teng on the occasion of his 80th birthday) [[link](https://www.cambridge.org/core/journals/numerical-mathematics-theory-methods-and-applications/article/stochastic-galerkin-method-for-the-boltzmann-equation-with-multidimensional-random-inputs-using-sparse-wavelet-bases/0396898A2BDF4C2FC3BEADBBB8F6B494)][pdf].
+[J17] R. Shu, J. Hu, and S. Jin. A stochastic Galerkin method for the Boltzmann equation with multi-dimensional random inputs using sparse wavelet bases. Numer. Math. Theor. Meth. Appl., 10:465-488, 2017 (special issue dedicated to Zhenhuan Teng on the occasion of his 80th birthday) [[link](https://www.cambridge.org/core/journals/numerical-mathematics-theory-methods-and-applications/article/stochastic-galerkin-method-for-the-boltzmann-equation-with-multidimensional-random-inputs-using-sparse-wavelet-bases/0396898A2BDF4C2FC3BEADBBB8F6B494)][[pdf](http://jingweihu-math.github.io/webpage/files/SHJ17.pdf)].
 
-[J16] J. Sun, S. Fomel, T. Zhu, and J. Hu. Q-compensated least-squares reverse time migration using low-rank one-step wave extrapolation. Geophysics, 81:S271-S279,  2016 [[link](https://library.seg.org/doi/full/10.1190/geo2015-0520.1)][pdf].
+[J16] J. Sun, S. Fomel, T. Zhu, and J. Hu. Q-compensated least-squares reverse time migration using low-rank one-step wave extrapolation. Geophysics, 81:S271-S279,  2016 [[link](https://library.seg.org/doi/full/10.1190/geo2015-0520.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SFZH16.pdf)].
 
-[J15] J. Hu and S. Jin. A stochastic Galerkin method for the Boltzmann equation with uncertainty. J. Comput. Phys., 315:150-168, 2016 [[link](https://www.sciencedirect.com/science/article/pii/S0021999116001996)][pdf].
+[J15] J. Hu and S. Jin. A stochastic Galerkin method for the Boltzmann equation with uncertainty. J. Comput. Phys., 315:150-168, 2016 [[link](https://www.sciencedirect.com/science/article/pii/S0021999116001996)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ16.pdf)].
 
-[J14] J. Hu, S. Jin, and D. Xiu. A stochastic Galerkin method for Hamilton-Jacobi equations with uncertainty. SIAM J. Sci. Comput., 37:A2246-A2269, 2015 [[link](https://epubs.siam.org/doi/abs/10.1137/140990930)][pdf].
+[J14] J. Hu, S. Jin, and D. Xiu. A stochastic Galerkin method for Hamilton-Jacobi equations with uncertainty. SIAM J. Sci. Comput., 37:A2246-A2269, 2015 [[link](https://epubs.siam.org/doi/abs/10.1137/140990930)][[pdf](http://jingweihu-math.github.io/webpage/files/HJX15.pdf)].
 
-[J13] J. Hu, S. Jin, and L. Wang. An asymptotic-preserving scheme for the semiconductor Boltzmann equation with two-scale collisions: a splitting approach. Kinet. Relat. Models, 8:707-723, 2015 [[link](http://www.aimsciences.org/article/doi/10.3934/krm.2015.8.707)][pdf].
+[J13] J. Hu, S. Jin, and L. Wang. An asymptotic-preserving scheme for the semiconductor Boltzmann equation with two-scale collisions: a splitting approach. Kinet. Relat. Models, 8:707-723, 2015 [[link](http://www.aimsciences.org/article/doi/10.3934/krm.2015.8.707)][[pdf](http://jingweihu-math.github.io/webpage/files/HJW15.pdf)].
 
-[J12] J. Hu, S. Fomel, and L. Ying. A fast algorithm for 3D azimuthally anisotropic velocity scan. Geophysical Prospecting, 63:368-377, 2015 [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12180)][pdf].
+[J12] J. Hu, S. Fomel, and L. Ying. A fast algorithm for 3D azimuthally anisotropic velocity scan. Geophysical Prospecting, 63:368-377, 2015 [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12180)][[pdf](http://jingweihu-math.github.io/webpage/files/HFY15.pdf)].
 
-[J11] J. Hu, Q. Li, and L. Pareschi. Asymptotic-preserving exponential methods for the quantum Boltzmann equation with high-order accuracy. J. Sci. Comput., 62:555-574, 2015 [[link](https://link.springer.com/article/10.1007/s10915-014-9869-2)][pdf].
+[J11] J. Hu, Q. Li, and L. Pareschi. Asymptotic-preserving exponential methods for the quantum Boltzmann equation with high-order accuracy. J. Sci. Comput., 62:555-574, 2015 [[link](https://link.springer.com/article/10.1007/s10915-014-9869-2)][[pdf](http://jingweihu-math.github.io/webpage/files/HLP15.pdf)].
 
-[J10] J. Hu and L. Wang. An asymptotic-preserving scheme for the semiconductor Boltzmann equation toward the energy-transport limit. J. Comput. Phys., 281:806-824, 2015 [[link](https://www.sciencedirect.com/science/article/pii/S0021999114007384)][pdf].
+[J10] J. Hu and L. Wang. An asymptotic-preserving scheme for the semiconductor Boltzmann equation toward the energy-transport limit. J. Comput. Phys., 281:806-824, 2015 [[link](https://www.sciencedirect.com/science/article/pii/S0021999114007384)][[pdf](http://jingweihu-math.github.io/webpage/files/HW15.pdf)].
 
-[J9] J. Hu and L. Ying. A fast algorithm for the energy space boson Boltzmann collision operator. Math. Comp., 84:271-288, 2015 [[link](https://www.ams.org/journals/mcom/2015-84-291/S0025-5718-2014-02824-X/home.html)][pdf].
+[J9] J. Hu and L. Ying. A fast algorithm for the energy space boson Boltzmann collision operator. Math. Comp., 84:271-288, 2015 [[link](https://www.ams.org/journals/mcom/2015-84-291/S0025-5718-2014-02824-X/home.html)][[pdf](http://jingweihu-math.github.io/webpage/files/HY15.pdf)].
 
-[J8] Y. Chen, S. Fomel, and J. Hu. Iterative deblending of simultaneous-source seismic data using seislet-domain shaping regularization. Geophysics, 79:V179-V189, 2014 [[link](https://library.seg.org/doi/abs/10.1190/geo2013-0449.1)][pdf].
+[J8] Y. Chen, S. Fomel, and J. Hu. Iterative deblending of simultaneous-source seismic data using seislet-domain shaping regularization. Geophysics, 79:V179-V189, 2014 [[link](https://library.seg.org/doi/abs/10.1190/geo2013-0449.1)][[pdf](http://jingweihu-math.github.io/webpage/files/CFH14.pdf)].
 
-[J7] G. Fang, S. Fomel, Q. Du, and J. Hu. Lowrank seismic-wave extrapolation on a staggered grid. Geophysics, 79:T157-T168, 2014 [[link](https://library.seg.org/doi/abs/10.1190/geo2013-0290.1)][pdf].
+[J7] G. Fang, S. Fomel, Q. Du, and J. Hu. Lowrank seismic-wave extrapolation on a staggered grid. Geophysics, 79:T157-T168, 2014 [[link](https://library.seg.org/doi/abs/10.1190/geo2013-0290.1)][[pdf](http://jingweihu-math.github.io/webpage/files/FFDH14.pdf)].
 
-[J6] J. Hu and S. Jin. On the quasi-random choice method for the Liouville equation of geometrical optics with discontinuous wave speed. J. Comput. Math., 31:573-591, 2013 [[link](https://global-sci.org/intro/article_detail/jcm/9755.html)][pdf].
+[J6] J. Hu and S. Jin. On the quasi-random choice method for the Liouville equation of geometrical optics with discontinuous wave speed. J. Comput. Math., 31:573-591, 2013 [[link](https://global-sci.org/intro/article_detail/jcm/9755.html)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ13.pdf)].
 
-[J5] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for generalized Radon transforms. Geophysics, 78:U41-U51, 2013 [[link](https://library.seg.org/doi/abs/10.1190/geo2012-0240.1)][pdf].
+[J5] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for generalized Radon transforms. Geophysics, 78:U41-U51, 2013 [[link](https://library.seg.org/doi/abs/10.1190/geo2012-0240.1)][[pdf](http://jingweihu-math.github.io/webpage/files/HFDY13.pdf)].
 
-[J4] J. Hu and L. Ying. A fast spectral algorithm for the quantum Boltzmann collision operator. Commun. Math. Sci., 10:989-999, 2012 [[link](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0010/0003/a013/)][pdf].
+[J4] J. Hu and L. Ying. A fast spectral algorithm for the quantum Boltzmann collision operator. Commun. Math. Sci., 10:989-999, 2012 [[link](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0010/0003/a013/)][[pdf](http://jingweihu-math.github.io/webpage/files/HY12.pdf)].
 
-[J3] J. Hu, S. Jin, and B. Yan. A numerical scheme for the quantum Fokker-Planck-Landau equation efficient in the fluid regime. Commun. Comput. Phys., 12:1541-1561, 2012 [[link](https://www.cambridge.org/core/journals/communications-in-computational-physics/article/numerical-scheme-for-the-quantum-fokkerplancklandau-equation-efficient-in-the-fluid-regime/0738303CA0EA641F2D50B5CA419D8879)][pdf].
+[J3] J. Hu, S. Jin, and B. Yan. A numerical scheme for the quantum Fokker-Planck-Landau equation efficient in the fluid regime. Commun. Comput. Phys., 12:1541-1561, 2012 [[link](https://www.cambridge.org/core/journals/communications-in-computational-physics/article/numerical-scheme-for-the-quantum-fokkerplancklandau-equation-efficient-in-the-fluid-regime/0738303CA0EA641F2D50B5CA419D8879)][[pdf](http://jingweihu-math.github.io/webpage/files/HJY12.pdf)].
 
-[J2] F. Filbet, J. Hu, and S. Jin. A numerical scheme for the quantum Boltzmann equation with stiff collision terms. ESAIM: Math. Model. Numer. Anal. (M2AN), 46:443-463, 2012 [[link](https://www.esaim-m2an.org/articles/m2an/abs/2012/02/m2an110051/m2an110051.html)][pdf].
+[J2] F. Filbet, J. Hu, and S. Jin. A numerical scheme for the quantum Boltzmann equation with stiff collision terms. ESAIM: Math. Model. Numer. Anal. (M2AN), 46:443-463, 2012 [[link](https://www.esaim-m2an.org/articles/m2an/abs/2012/02/m2an110051/m2an110051.html)][[pdf](http://jingweihu-math.github.io/webpage/files/FHJ12.pdf)].
 
-[J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. Kinet. Relat. Models, 4:517-530, 2011 [[link](http://www.aimsciences.org/journals/displayArticles.jsp?paperID=6092)][pdf].
+[J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. Kinet. Relat. Models, 4:517-530, 2011 [[link](http://www.aimsciences.org/journals/displayArticles.jsp?paperID=6092)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ11.pdf)].
 
 ## In Refereed Conference Proceedings
 [C9] S. Jaiswal, J. Hu, J. Brillon, and A. Alexeenko. A discontinuous Galerkin fast spectral method for multi-species full Boltzmann on streaming multi-processors. In Proceedings of the Platform for Advanced Scientific Computing Conference (PASC ’19), Switzerland, 2019.
