@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "MA 416 Probability"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/2020-fall-teaching
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2020-08-01
 location: "City, Country"
 ---
 
