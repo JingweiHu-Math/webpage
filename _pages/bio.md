@@ -21,7 +21,7 @@ Professional Appointments
 * Associate Professor (by courtesy), School of Aeronautics and Astronautics, Purdue University, 2020 - present
 * Assistant Professor, Department of Mathematics, Purdue University, 2014 - 2019
 * Postdoctoral Fellow, ICES and BEG, The University of Texas at Austin, 2011 - 2014
-  * Mentors: Prof. [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/) and [Lexing Ying](https://web.stanford.edu/~lexing/)
+  * Mentors: Prof. [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/) and Prof. [Lexing Ying](https://web.stanford.edu/~lexing/)
   
 Awards
 ======
