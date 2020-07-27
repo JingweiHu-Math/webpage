@@ -86,26 +86,18 @@ redirect_from:
 
 [J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. Kinet. Relat. Models, 4:517-530, 2011 [[link](http://www.aimsciences.org/journals/displayArticles.jsp?paperID=6092)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ11.pdf)].
 
-## In Refereed Conference Proceedings
-[C9] S. Jaiswal, J. Hu, J. Brillon, and A. Alexeenko. A discontinuous Galerkin fast spectral method for multi-species full Boltzmann on streaming multi-processors. In Proceedings of the Platform for Advanced Scientific Computing Conference (PASC ’19), Switzerland, 2019.
-
-[C8] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In Proceedings of the 31st International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)][[pdf](http://jingweihu-math.github.io/webpage/files/RGD31.pdf)].
-
-[C7] J. Hu, S. Jin, and R. Shu. A stochastic Galerkin method for the Fokker-Planck-Landau equation with random uncertainties. In C. Klingenberg and M. Westdickenberg, editors, Theory, Numerics and Applications of Hyperbolic Problems II. HYP 2016, Springer Proceedings in Mathematics & Statistics, 2018 [[link](https://link.springer.com/chapter/10.1007/978-3-319-91548-7_1)][[pdf](http://jingweihu-math.github.io/webpage/files/HYP16.pdf)].
-
-[C6] G. Fang, J. Hu, and S. Fomel. Weighted least square based lowrank finite difference for seismic wave extrapolation. In 85th Annual International Meeting, SEG, Expanded Abstracts, pages 3554-3559, 2015 [[link](https://library.seg.org/doi/abs/10.1190/segam2015-5913120.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG15_Fang.pdf)].
-
-[C5] I. Gamba, J. Haack, and J. Hu. A fast conservative spectral solver for the nonlinear Boltzmann collision operator. In Proceedings of the 29th International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 1628:1003-1008, 2014 [[link](https://aip.scitation.org/doi/abs/10.1063/1.4902703)][[pdf](http://jingweihu-math.github.io/webpage/files/RGD29.pdf)].
-
-[C4] J. Sun, S. Fomel, and J. Hu. Least-squares reverse-time migration using one-step two-way wave extrapolation by non-stationary phase shift. In 84th Annual International Meeting, SEG, Expanded Abstracts, pages 3967-3973, 2014 [[link](https://library.seg.org/doi/abs/10.1190/segam2014-1588.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG14_Sun.pdf)].
-
-[C3] J. Hu, S. Fomel, and L. Ying. A fast algorithm for 3D azimuthally anisotropic velocity scan. In 83rd Annual International Meeting, SEG, Expanded Abstracts, pages 4795-4799, 2013 [[link](https://library.seg.org/doi/abs/10.1190/segam2013-0763.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG13_Hu.pdf)].
-
-[C2] Y. Chen, S. Fomel, and J. Hu. Iterative deblending of simultaneous-source seismic data using shaping regularization. In 83rd Annual International Meeting, SEG, Expanded Abstracts, pages 119-125, 2013 [[link](https://library.seg.org/doi/abs/10.1190/segam2013-0636.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG13_Chen.pdf)].
-
-[C1] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for the hyperbolic Radon transform. In 82nd Annual International Meeting, SEG, Expanded Abstracts, pages 1-5, 2012 [[link](https://library.seg.org/doi/abs/10.1190/segam2012-0462.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG12_Hu.pdf)].
-
 ## Book Chapters
 [BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, Uncertainty Quantification for Hyperbolic and Kinetic Equations, pages 193-229. SEMA SIMAI Springer Series, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
 
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues, chapter 5, pages 103-129. North-Holland, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S1570865916300102)][[pdf](http://jingweihu-math.github.io/webpage/files/HJL17.pdf)].
+
+## Selected Conference Publications
+** S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In Proceedings of the 31st International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)][[pdf](http://jingweihu-math.github.io/webpage/files/RGD31.pdf)].
+
+** J. Hu, S. Jin, and R. Shu. A stochastic Galerkin method for the Fokker-Planck-Landau equation with random uncertainties. In C. Klingenberg and M. Westdickenberg, editors, Theory, Numerics and Applications of Hyperbolic Problems II. HYP 2016, Springer Proceedings in Mathematics & Statistics, 2018 [[link](https://link.springer.com/chapter/10.1007/978-3-319-91548-7_1)][[pdf](http://jingweihu-math.github.io/webpage/files/HYP16.pdf)].
+
+** G. Fang, J. Hu, and S. Fomel. Weighted least square based lowrank finite difference for seismic wave extrapolation. In 85th Annual International Meeting, SEG, Expanded Abstracts, pages 3554-3559, 2015 [[link](https://library.seg.org/doi/abs/10.1190/segam2015-5913120.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG15_Fang.pdf)].
+
+** J. Sun, S. Fomel, and J. Hu. Least-squares reverse-time migration using one-step two-way wave extrapolation by non-stationary phase shift. In 84th Annual International Meeting, SEG, Expanded Abstracts, pages 3967-3973, 2014 [[link](https://library.seg.org/doi/abs/10.1190/segam2014-1588.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG14_Sun.pdf)].
+
+[C1] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for the hyperbolic Radon transform. In 82nd Annual International Meeting, SEG, Expanded Abstracts, pages 1-5, 2012 [[link](https://library.seg.org/doi/abs/10.1190/segam2012-0462.1)][[pdf](http://jingweihu-math.github.io/webpage/files/SEG12_Hu.pdf)].
