@@ -25,7 +25,7 @@ redirect_from:
 
 [PP1] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. Submitted, 2019 [[arXiv](https://arxiv.org/abs/1911.07619)].
 
-## In Refereed Journals
+## Refereed Journal Publications
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [[arXiv](https://arxiv.org/abs/1811.11502)].
 
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S2590055220300184)][[pdf](http://jingweihu-math.github.io/webpage/files/CHWW20.pdf)].
