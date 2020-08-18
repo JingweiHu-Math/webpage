@@ -4,7 +4,7 @@ collection: teaching
 #type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
 #venue: "Math Department, Purdue University"
-date: Fall 2020
+date: 2020-8-24
 #location: "City, Country"
 ---
 
