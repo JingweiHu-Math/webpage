@@ -1,5 +1,5 @@
 ---
-title: "MA 416 Probability"
+title: "MA 416 Probability (Fall 2020)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
@@ -8,3 +8,4 @@ date: 2020-08-01
 location: "City, Country"
 ---
 
+## Section 157     TR 9:00am-10:15am Online via Webex
