@@ -10,5 +10,5 @@ location: "City, Country"
 
 ## Section 157     
 ## TR 9:00am-10:15am (Online via Webex)
-# Instructor: Jingwei Hu
-# Email: jingweihu@purdue.edu
+## Instructor: Jingwei Hu
+## Email: jingweihu@purdue.edu
