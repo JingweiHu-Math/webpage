@@ -1,5 +1,5 @@
 ---
-title: "MA 416 Probability (Fall 2020)"
+title: "MA 416 Probability"
 collection: teaching
 #type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
