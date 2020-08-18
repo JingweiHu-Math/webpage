@@ -8,6 +8,4 @@ date: 2020-08-01
 location: "City, Country"
 ---
 
-## Section 157 &nbsp TR 9:00am-10:15am (Online via Webex)
-## Instructor: Jingwei Hu
-## Email: jingweihu@purdue.edu
+All information for this course is contained in [Brightspace][https://purdue.brightspace.com/d2l/login]. Please note that since these are cross-listed courses in Statistics and in Mathematics, they are merged in Brightspace as one course appearing as "Fall 2020 MA 416 - Merge"  
