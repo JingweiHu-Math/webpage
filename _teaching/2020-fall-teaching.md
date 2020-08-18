@@ -1,9 +1,9 @@
 ---
 title: "MA 416 Probability"
 collection: teaching
-#type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
-#venue: "Math Department, Purdue University"
+venue: "Math Department, Purdue University"
 date: 2020-8-24
 #location: "City, Country"
 ---
