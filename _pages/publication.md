@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 ## Preprints
 [PP6] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2007.05184)].
 
