@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Preprints
+Preprints
+====
 [PP6] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2007.05184)].
 
 [PP5] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
@@ -21,8 +22,8 @@ redirect_from:
 [PP2] J. Hu and R. Shu. On the uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for stiff hyperbolic relaxation systems and kinetic equations. Submitted, 2019 [[arXiv](https://arxiv.org/abs/1912.00559)].
 
 [PP1] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. Submitted, 2019 [[arXiv](https://arxiv.org/abs/1911.07619)].
-
-## Refereed Journal Publications
+Refereed Journal Publications
+====
 [J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. J. Comput. Phys., to appear [[arXiv](https://arxiv.org/abs/2004.11239)].
 
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [[arXiv](https://arxiv.org/abs/1811.11502)].
@@ -85,12 +86,14 @@ redirect_from:
 
 [J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. Kinet. Relat. Models, 4:517-530, 2011 [[link](http://www.aimsciences.org/journals/displayArticles.jsp?paperID=6092)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ11.pdf)].
 
-## Book Chapters
+Book Chapters
+====
 [BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, Uncertainty Quantification for Hyperbolic and Kinetic Equations, pages 193-229. SEMA SIMAI Springer Series, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
 
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues, chapter 5, pages 103-129. North-Holland, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S1570865916300102)][[pdf](http://jingweihu-math.github.io/webpage/files/HJL17.pdf)].
 
-## Selected Conference Publications
+Selected Conference Publications
+====
 [C5] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In Proceedings of the 31st International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc., 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)][[pdf](http://jingweihu-math.github.io/webpage/files/RGD31.pdf)].
 
 [C4] J. Hu, S. Jin, and R. Shu. A stochastic Galerkin method for the Fokker-Planck-Landau equation with random uncertainties. In C. Klingenberg and M. Westdickenberg, editors, Theory, Numerics and Applications of Hyperbolic Problems II. HYP 2016, Springer Proceedings in Mathematics & Statistics, 2018 [[link](https://link.springer.com/chapter/10.1007/978-3-319-91548-7_1)][[pdf](http://jingweihu-math.github.io/webpage/files/HYP16.pdf)].
