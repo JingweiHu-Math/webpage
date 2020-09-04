@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Preprints
-==
+## Preprints
 [PP6] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2007.05184)].
 
 [PP5] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
