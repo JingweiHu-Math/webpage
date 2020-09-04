@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+$$ \frac{3}{2}\int $$
 
 ## Preprint
-[PP7] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2007.05184)].
+[PP6] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2007.05184)].
 
-[PP6] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
-
-[PP5] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2004.11239)].
+[PP5] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
 
 [PP4] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2004.07638)].
 
@@ -26,6 +25,8 @@ redirect_from:
 [PP1] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. Submitted, 2019 [[arXiv](https://arxiv.org/abs/1911.07619)].
 
 ## Refereed Journal Publication
+[J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. J. Comput. Phys., to appear [[arXiv](https://arxiv.org/abs/2004.11239)].
+
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., to appear [[arXiv](https://arxiv.org/abs/1811.11502)].
 
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S2590055220300184)][[pdf](http://jingweihu-math.github.io/webpage/files/CHWW20.pdf)].
