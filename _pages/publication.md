@@ -95,7 +95,7 @@ Book Chapters
 
 Selected Conference Publications
 ====
-[C5] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In *Proceedings of the 31st International Symposium on Rarefied Gas Dynamics, AIP Conf. Proc.*, 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)][[pdf](http://jingweihu-math.github.io/webpage/files/RGD31.pdf)].
+[C5] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In *Proceedings of the 31st International Symposium on Rarefied Gas Dynamics*, AIP Conf. Proc., 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)][[pdf](http://jingweihu-math.github.io/webpage/files/RGD31.pdf)].
 
 [C4] J. Hu, S. Jin, and R. Shu. A stochastic Galerkin method for the Fokker-Planck-Landau equation with random uncertainties. In C. Klingenberg and M. Westdickenberg, editors, *Theory, Numerics and Applications of Hyperbolic Problems II. HYP 2016*, Springer Proceedings in Mathematics & Statistics, 2018 [[link](https://link.springer.com/chapter/10.1007/978-3-319-91548-7_1)][[pdf](http://jingweihu-math.github.io/webpage/files/HYP16.pdf)].
 
