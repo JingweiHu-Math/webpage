@@ -23,11 +23,11 @@ Preprints
 
 Refereed Journal Publications
 ====
-[J32] J. Hu and R. Shu. On the uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for stiff hyperbolic relaxation systems and kinetic equations. Math. Comp., accepted [[arXiv](https://arxiv.org/abs/1912.00559)].
+[J32] J. Hu and R. Shu. On the uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for stiff hyperbolic relaxation systems and kinetic equations. *Math. Comp.*, accepted [[arXiv](https://arxiv.org/abs/1912.00559)].
 
-[J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. J. Comput. Phys., accepted [[arXiv](https://arxiv.org/abs/2004.11239)].
+[J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2004.11239)].
 
-[J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. Commun. Math. Sci., accepted [[arXiv](https://arxiv.org/abs/1811.11502)].
+[J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/1811.11502)].
 
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. J. Comput. Phys. X, 7:100066, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S2590055220300184)][[pdf](http://jingweihu-math.github.io/webpage/files/CHWW20.pdf)].
 
