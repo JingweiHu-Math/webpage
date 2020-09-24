@@ -27,7 +27,7 @@ Refereed Journal Publications
 
 [J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2004.11239)].
 
-[J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. *Commun. Math. Sci.*, 18:1259-1303, 2020 [[link](https://intlpress.com/site/pub/pages/journals/items/cms/content/vols/0018/0005/a005/index.php)][[pdf](http://jingweihu-math.github.io/webpage/files/BCH20.pdf)]..
+[J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. *Commun. Math. Sci.*, 18:1259-1303, 2020 [[link](https://intlpress.com/site/pub/pages/journals/items/cms/content/vols/0018/0005/a005/index.php)][[pdf](http://jingweihu-math.github.io/webpage/files/BCH20.pdf)].
 
 [J29] J. Carrillo, J. Hu, L. Wang, and J. Wu. A particle method for the homogeneous Landau equation. *J. Comput. Phys. X*, 7:100066, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S2590055220300184)][[pdf](http://jingweihu-math.github.io/webpage/files/CHWW20.pdf)].
 
