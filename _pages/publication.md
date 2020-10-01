@@ -25,7 +25,7 @@ Refereed Journal Publications
 ====
 [J32] J. Hu and R. Shu. On the uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for stiff hyperbolic relaxation systems and kinetic equations. *Math. Comp.*, accepted [[arXiv](https://arxiv.org/abs/1912.00559)].
 
-[J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2004.11239)].
+[J31] J. Hu and K. Qi. A fast Fourier spectral method for the homogeneous Boltzmann equation with non-cutoff collision kernels. *J. Comput. Phys.*, 423:109806, 2020 [[link](https://www.sciencedirect.com/science/article/pii/S0021999120305805)][[pdf](http://jingweihu-math.github.io/webpage/files/HQ20.pdf)].
 
 [J30] R. Bailo, J. Carrillo, and J. Hu. Fully discrete positivity-preserving and energy-dissipating schemes for aggregation-diffusion equations with a gradient flow structure. *Commun. Math. Sci.*, 18:1259-1303, 2020 [[link](https://intlpress.com/site/pub/pages/journals/items/cms/content/vols/0018/0005/a005/index.php)][[pdf](http://jingweihu-math.github.io/webpage/files/BCH20.pdf)].
 
