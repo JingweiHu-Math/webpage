@@ -15,7 +15,7 @@ Current Teaching
 
 
 ## Past Teaching at Purdue
-* Fall 2020: MA 416 Probability
+* Fall 2020: MA/STAT 416 Probability
 * Spring 2020, Spring 2017, Fall 2016, Fall 2015, Spring 2015: MA 303 Differential Equations and Partial Differential Equations for Engineering and the Sciences
 * Fall 2019: MA/CS 514 Numerical Analysis
 * Fall 2018: MA 366 Ordinary Differential Equations
