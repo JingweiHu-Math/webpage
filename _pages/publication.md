@@ -11,6 +11,8 @@ redirect_from:
 
 Preprints
 ====
+[PP5] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
+
 [PP4] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
 
 [PP3] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2004.07638)].
