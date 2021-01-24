@@ -34,4 +34,4 @@ Awards
 Editorial Board
 ======
 * Associate Editor: [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics (AWM)), 2021 - present. 
-* Associate Editor: [Kinetic & Related Models (KRM)](http://www.aimsciences.org/journal/1937-5093), 2019 - present.
+* Associate Editor: [Kinetic & Related Models](http://www.aimsciences.org/journal/1937-5093) (KRM), 2019 - present.
