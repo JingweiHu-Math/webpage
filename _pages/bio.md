@@ -31,7 +31,7 @@ Awards
 * Peter O’Donnell, Jr. Postdoctoral Fellowship, The University of Texas at Austin, 2011.
 * Elizabeth S. Hirschfelder Scholarship, University of Wisconsin-Madison, 2010.
 
-Editorial Board
+Editorial Boards
 ======
 * Associate Editor: [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics), 2021 - present. 
 * Associate Editor: [Kinetic & Related Models](http://www.aimsciences.org/journal/1937-5093), 2019 - present.
