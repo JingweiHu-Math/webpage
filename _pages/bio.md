@@ -25,13 +25,13 @@ Professional Appointments
   
 Awards
 ======
-* NSF CAREER Award, 2017.
-* Teaching for Tomorrow Award, Purdue University, 2015.
-* BEG First Author Publication Award, The University of Texas at Austin, 2014.
-* Peter O’Donnell, Jr. Postdoctoral Fellowship, The University of Texas at Austin, 2011.
-* Elizabeth S. Hirschfelder Scholarship, University of Wisconsin-Madison, 2010.
+* NSF CAREER Award, 2017
+* Teaching for Tomorrow Award, Purdue University, 2015
+* BEG First Author Publication Award, The University of Texas at Austin, 2014
+* Peter O’Donnell, Jr. Postdoctoral Fellowship, The University of Texas at Austin, 2011
+* Elizabeth S. Hirschfelder Scholarship, University of Wisconsin-Madison, 2010
 
 Editorial Boards
 ======
-* Associate Editor: [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics), 2021 - present. 
-* Associate Editor: [Kinetic & Related Models](http://www.aimsciences.org/journal/1937-5093), 2019 - present.
+* Associate Editor: [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics), 2021 - present
+* Associate Editor: [Kinetic & Related Models](http://www.aimsciences.org/journal/1937-5093), 2019 - present
