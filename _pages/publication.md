@@ -11,19 +11,21 @@ redirect_from:
 
 Preprints
 ====
-[PP5] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
+[PP5] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order positivity preserving and asymptotic preserving multi-derivative methods. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
 
-[PP4] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
+[PP4] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
 
-[PP3] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2004.07638)].
+[PP3] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
 
-[PP2] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2001.11206)].
+[PP2] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2004.07638)].
 
-[PP1] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. Submitted, 2019 [[arXiv](https://arxiv.org/abs/1911.07619)].
+[PP1] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2001.11206)].
 
 Journal Publications
 ====
-[J33] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. *SIAM J. Numer. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2007.05184)].
+[J34] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. *SIAM J. Numer. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2007.05184)].
+
+[J33] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. *J. Comput. Phys.*, 433:110195, 2021 [[link](https://www.sciencedirect.com/science/article/pii/S0021999121000905)].
 
 [J32] J. Hu and R. Shu. On the uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for stiff hyperbolic relaxation systems and kinetic equations. *Math. Comp.*, 90:641-670, 2021 [[link](https://www.ams.org/journals/mcom/2021-90-328/S0025-5718-2020-03602-3/)].
 
