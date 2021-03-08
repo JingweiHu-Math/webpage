@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ====
-[PP5] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability pre- serving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
+[PP5] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
 
 [PP4] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
 
