@@ -17,12 +17,12 @@ Preprints
 
 [PP3] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
 
-[PP2] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2005.06571)].
-
 [PP1] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2001.11206)].
 
 Journal Publications
 ====
+[J36] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2005.06571)].
+
 [J35] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. *SIAM/ASA J. Uncertainty Quantification*, accepted [[arXiv](https://arxiv.org/abs/2004.07638)].
 
 [J34] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. *SIAM J. Numer. Anal.*, 59:613-633, 2021 [[link](https://epubs-siam-org.ezproxy.lib.purdue.edu/doi/abs/10.1137/20M1351813)].
