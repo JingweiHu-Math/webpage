@@ -11,6 +11,8 @@ redirect_from:
 
 Preprints
 ====
+[PP5] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2105.08806)].
+
 [PP4] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2103.16790)].
 
 [PP3] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
@@ -21,9 +23,9 @@ Preprints
 
 Journal Publications
 ====
-[J36] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2005.06571)].
+[J36] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. *SIAM/ASA J. Uncertainty Quantification*, 9:650-680, 2021 [[link](https://epubs.siam.org/doi/abs/10.1137/20M1331846)].
 
-[J35] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. *SIAM/ASA J. Uncertainty Quantification*, accepted [[arXiv](https://arxiv.org/abs/2004.07638)].
+[J35] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. *J. Comput. Phys.*, 439:110353, 2021 [[link](https://www.sciencedirect.com/science/article/pii/S0021999121002485)].
 
 [J34] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. *SIAM J. Numer. Anal.*, 59:613-633, 2021 [[link](https://epubs-siam-org.ezproxy.lib.purdue.edu/doi/abs/10.1137/20M1351813)].
 
