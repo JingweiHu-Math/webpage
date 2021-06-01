@@ -11,18 +11,18 @@ redirect_from:
 
 Preprints
 ====
-[PP5] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2105.08806)].
+[PP4] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2105.08806)].
 
-[PP4] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2103.16790)].
+[PP3] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2103.16790)].
 
-[PP3] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
-
-[PP2] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
+[PP2] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
 
 [PP1] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2001.11206)].
 
 Journal Publications
 ====
+[J37] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. *SIAM J. Sci. Comput.*, accepted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
+
 [J36] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. *SIAM/ASA J. Uncertainty Quantification*, 9:650-680, 2021 [[link](https://epubs.siam.org/doi/abs/10.1137/20M1331846)].
 
 [J35] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. *J. Comput. Phys.*, 439:110353, 2021 [[link](https://www.sciencedirect.com/science/article/pii/S0021999121002485)].
