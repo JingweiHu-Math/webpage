@@ -11,6 +11,8 @@ redirect_from:
 
 Preprints
 ====
+[PP5] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2106.12428)].
+
 [PP4] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2105.08806)].
 
 [PP3] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2103.16790)].
