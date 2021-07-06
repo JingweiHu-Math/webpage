@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 I am an associate professor at the [Department of Mathematics](https://www.math.purdue.edu) 
-and [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE) (by courtesy), [Purdue University](https://www.purdue.edu). 
-
-Starting this fall, I will join the [Department of Applied Mathematics](https://amath.washington.edu), [University of Washington](https://www.washington.edu) as an associate professor.
+and [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE) (by courtesy), [Purdue University](https://www.purdue.edu). Starting this fall, I will join the [Department of Applied Mathematics](https://amath.washington.edu), [University of Washington](https://www.washington.edu) as an associate professor.
 
 My general research interests lie in numerical analysis and scientific computing.
 
