@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an associate professor at the [Department of Mathematics](https://www.math.purdue.edu) 
-and [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE) (by courtesy), [Purdue University](https://www.purdue.edu). I will join the [Department of Applied Mathematics](https://amath.washington.edu), [University of Washington](https://www.washington.edu) this September as an associate professor.
+and [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE) (by courtesy), Purdue University. I will join the [Department of Applied Mathematics](https://amath.washington.edu), University of Washington this September as an associate professor.
 
 My general research interests lie in numerical analysis and scientific computing.
 
