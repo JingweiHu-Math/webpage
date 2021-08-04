@@ -19,8 +19,6 @@ Preprints
 
 [PP2] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
 
-[PP1] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. Submitted, 2020 [[arXiv](https://arxiv.org/abs/2001.11206)].
-
 Journal Publications
 ====
 [J37] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. *SIAM J. Sci. Comput.*, accepted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
@@ -99,7 +97,9 @@ Journal Publications
 
 Book Chapters
 ====
-[BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, *Uncertainty Quantification for Hyperbolic and Kinetic Equations*, pages 193-229. SEMA SIMAI Springer Series, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
+[BC3] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. In G. Albi, S. Merino-Aceituno, A. Nota, and M. Zanella, editors, *Trails in Kinetic Theory*, pages 1-36. SEMA SIMAI Springer Series vol 25, 2021 [[link](https://link.springer.com/chapter/10.1007/978-3-030-67104-4_1)][[pdf](http://jingweihu-math.github.io/webpage/files/CHMR21.pdf)].
+
+[BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, *Uncertainty Quantification for Hyperbolic and Kinetic Equations*, pages 193-229. SEMA SIMAI Springer Series vol 14, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
 
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, *Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues*, chapter 5, pages 103-129. North-Holland, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S1570865916300102)][[pdf](http://jingweihu-math.github.io/webpage/files/HJL17.pdf)].
 
