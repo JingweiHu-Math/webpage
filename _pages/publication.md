@@ -17,7 +17,7 @@ Preprints
 
 [PP2] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2103.16790)].
 
-[PP1] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order unconditionally strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
+[PP1] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
 
 Journal Publications
 ====
