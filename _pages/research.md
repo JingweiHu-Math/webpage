@@ -21,5 +21,5 @@ Some of my recent representative work include:
 * Low rank methods for high dimensional kinetic equations
 * Uncertainty quantification for kinetic equations
 
-&nbsp;
+\s\s
 **I gratefully acknowledge the support of the NSF (DMS-1620250, DMS-CAREER-1654152, and CBET-CD&E-1854829) in making this work possible.**
