@@ -15,7 +15,7 @@ My research is mainly focused on development and analysis of efficient and struc
 
 Some of my recent representative work includes:
 
-* Fast Fourier spectral methods for Boltzmann type collisional kinetic equations
+* Fast spectral methods for Boltzmann type collisional kinetic equations
 * Asymptotic-preserving and positivity-preserving schemes for multiscale hyperbolic and kinetic equations
 * Energy/entropy dissipative schemes for Fokker-Planck type equations
 * Low-rank methods for high dimensional kinetic equations
