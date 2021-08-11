@@ -12,7 +12,6 @@ redirect_from:
 Current Teaching
 ======
 
-\
 <!--
 [Spring 2021: MA 528 Advanced Mathematics for Engineers and Physicists II](https://jingweihu-math.github.io/webpage/teaching/2021-spring-teaching)
 -->
