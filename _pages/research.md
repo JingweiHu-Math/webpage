@@ -17,4 +17,6 @@ My research is mainly focused on development and analysis of efficient and struc
 * Asymptotic-preserving and positivity-preserving schemes for multiscale kinetic equations
 * Energy or entropy dissipative schemes for Fokker-Planck type equations
 * Uncertainty quantification for kinetic equations
-* Low rank method for high-dimensional kinetic equations
+* Low rank methods for high-dimensional kinetic equations
+
+I gratefully acknowledge the support of the NSF (DMS-1620250, CBET-CD&E-1854829, DMS-CAREER-1654152) in making this work possible.
