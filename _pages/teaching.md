@@ -11,10 +11,12 @@ redirect_from:
 
 Current Teaching
 ======
+<!--
 [Spring 2021: MA 528 Advanced Mathematics for Engineers and Physicists II](https://jingweihu-math.github.io/webpage/teaching/2021-spring-teaching)
-
+-->
 
 ## Past Teaching at Purdue
+* Spring 2021: MA 528 MA 528 Advanced Mathematics for Engineers and Physicists II
 * Fall 2020: MA/STAT 416 Probability
 * Spring 2020, Spring 2017, Fall 2016, Fall 2015, Spring 2015: MA 303 Differential Equations and Partial Differential Equations for Engineering and the Sciences
 * Fall 2019: MA/CS 514 Numerical Analysis
