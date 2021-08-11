@@ -13,5 +13,6 @@ Research Interests
 ======
 My research is mainly focused on development and analysis of efficient and structure-preserving numerical methods for kinetic equations (a mesoscopic description of interacting particle systems with the nonlinear Boltzmann equation as a prominent example) and related problems arising in multiscale modeling and simulation. 
 
-* Fast Fourier spectral method for the Boltzmann collision operator
+* Fast Fourier spectral methods for collisional kinetic equations
+* Asymptotic-preserving and positivity-preserving schemes for multiscale kinetic equations
 * 
