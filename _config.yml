@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingwei Hu"
 title_separator          : "-"
 name                     : &name "Jingwei Hu"
-description              : &description "Associate Professor at Purdue University"
+description              : &description "Associate Professor at University of Washington"
 url                      : https://jingweihu-math.github.io/webpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jingweihu-math.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingwei Hu  胡婧玮"
   avatar           : "IMG_6456.JPG"
-  bio              : "Associate Professor at Purdue University"
-  location         : "West Lafayette, IN 47907, USA"
+  bio              : "Associate Professor at University of Washington"
+  location         : "Seattle, WA 98195, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jingweihu@purdue.edu"
+  email            : "hujw@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
