@@ -12,4 +12,4 @@ I am an associate professor at the [Department of Applied Mathematics](https://a
 
 News
 ======
-I am co-organizing the six-month scientific program at the Issac Newton Institute: [Frontiers in kinetic theory: connecting microscopic to macroscopic scales – KineCon](https://www.newton.ac.uk/event/fkt/), Cambridge, UK, January 4th to June 24th, 2022.
+I am co-organizing the six-month scientific program at the Isaac Newton Institute: [Frontiers in kinetic theory: connecting microscopic to macroscopic scales – KineCon](https://www.newton.ac.uk/event/fkt/), Cambridge, UK, January 4th to June 24th, 2022.
