@@ -17,7 +17,7 @@ Education
 
 Professional Appointments
 ======
-* Associate Professor, Department of Applied Mathematics, University of Washington, 2021 - 
+* Associate Professor, Department of Applied Mathematics, University of Washington, Sep 2021 - 
 * Associate Professor, Department of Mathematics and School of Aeronautics and Astronautics (by courtesy), Purdue University, 2019 - 2021
 * Assistant Professor, Department of Mathematics, Purdue University, 2014 - 2019
 * Postdoctoral Fellow, ICES and BEG, The University of Texas at Austin, 2011 - 2014
