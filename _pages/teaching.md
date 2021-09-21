@@ -11,7 +11,7 @@ redirect_from:
 
 Current Teaching at UW
 ======
-Autumn 2021: AMATH 584 Applied Linear Algebra and Introductory Numerical Analysis [Canvas]
+Autumn 2021: AMATH 584 Applied Linear Algebra and Introductory Numerical Analysis [[Canvas](https://canvas.uw.edu)]
 
 <!--
 [Spring 2021: MA 528 Advanced Mathematics for Engineers and Physicists II](https://jingweihu-math.github.io/webpage/teaching/2021-spring-teaching)
