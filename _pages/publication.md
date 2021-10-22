@@ -29,7 +29,7 @@ Journal Publications
 ====
 [J38] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. *SIAM J. Numer. Anal.*, accepted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
 
-[J37] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. *SIAM J. Sci. Comput.*, accepted, 2021 [[arXiv](https://arxiv.org/abs/2101.07104)].
+[J37] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. *SIAM J. Sci. Comput.*, 43:B1057-B1080, 2021 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1392772?journalCode=sjoce3)].
 
 [J36] J. Hu, L. Pareschi, and Y. Wang. Uncertainty quantification for the BGK  model of the Boltzmann equation using multilevel variance reduced Monte Carlo methods. *SIAM/ASA J. Uncertainty Quantification*, 9:650-680, 2021 [[link](https://epubs.siam.org/doi/abs/10.1137/20M1331846)].
 
