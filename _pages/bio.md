@@ -17,10 +17,10 @@ Education
 
 Professional Appointments
 ======
-* Associate Professor, Department of Applied Mathematics, University of Washington, Sep 2021 - 
-* Associate Professor, Department of Mathematics and School of Aeronautics and Astronautics (by courtesy), Purdue University, 2019 - 2021
-* Assistant Professor, Department of Mathematics, Purdue University, 2014 - 2019
-* Postdoctoral Fellow, ICES and BEG, The University of Texas at Austin, 2011 - 2014
+* Associate Professor, Department of Applied Mathematics, University of Washington, Sep 2021- 
+* Associate Professor, Department of Mathematics and School of Aeronautics and Astronautics (by courtesy), Purdue University, 2019-2021
+* Assistant Professor, Department of Mathematics, Purdue University, 2014-2019
+* Postdoctoral Fellow, ICES and BEG, The University of Texas at Austin, 2011-2014
   * Mentors: Prof. [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/) and Prof. [Lexing Ying](https://web.stanford.edu/~lexing/)
   
 Awards
@@ -33,5 +33,5 @@ Awards
 
 Editorial Boards
 ======
-* Associate Editor, [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics), 2021 - 
-* Associate Editor, [Kinetic & Related Models](http://www.aimsciences.org/journal/1937-5093), 2019 - 
+* Associate Editor, [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics), 2021- 
+* Associate Editor, [Kinetic & Related Models](http://www.aimsciences.org/journal/1937-5093), 2019- 
