@@ -11,6 +11,8 @@ redirect_from:
 
 Preprints
 ====
+[PP8] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations. Submitted, 2021.
+
 [PP7] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
 [PP6] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
