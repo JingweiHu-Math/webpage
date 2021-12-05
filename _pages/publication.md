@@ -11,6 +11,8 @@ redirect_from:
 
 Preprints
 ====
+[PP9] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021.
+
 [PP8] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations. Submitted, 2021.
 
 [PP7] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
