@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ====
-[PP9] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021.
+[PP9] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
 
 [PP8] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations. Submitted, 2021.
 
