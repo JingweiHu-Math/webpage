@@ -18,7 +18,7 @@ Education
 Professional Appointments
 ======
 * Associate Professor, Department of Applied Mathematics, University of Washington, 2021- 
-* Adjunct Associate Professor, William E. Boeing Department of Aeronautics & Astronautics, 2022-
+* Adjunct Associate Professor, William E. Boeing Department of Aeronautics & Astronautics, University of Washington, 2022-
 * Associate Professor, Department of Mathematics and School of Aeronautics and Astronautics (by courtesy), Purdue University, 2019-2021
 * Assistant Professor, Department of Mathematics, Purdue University, 2014-2019
 * Postdoctoral Fellow, ICES and BEG, The University of Texas at Austin, 2011-2014
