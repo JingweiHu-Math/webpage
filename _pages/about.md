@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [Department of Applied Mathematics](https://amath.washington.edu), University of Washington. My general research interests lie in numerical analysis and scientific computing.
+I am an associate professor at the [Department of Applied Mathematics](https://amath.washington.edu), University of Washington. I also hold an adjunct professorship at the [William E. Boeing Department of Aeronautics & Astronautics] (https://www.aa.washington.edu/). My general research interests lie in numerical analysis and scientific computing.
 
 News
 ======
