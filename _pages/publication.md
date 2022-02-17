@@ -31,7 +31,7 @@ Journal Publications
 ====
 [J39] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2105.08806)].
 
-[J38] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. *SIAM J. Numer. Anal.*, accepted, 2021 [[arXiv](https://arxiv.org/abs/2102.11939)].
+[J38] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. *SIAM J. Numer. Anal.*, 60:423-449, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1403175)].
 
 [J37] L. Einkemmer, J. Hu, and L. Ying. An efficient dynamical low-rank algorithm for the Boltzmann–BGK equation close to the compressible viscous flow regime. *SIAM J. Sci. Comput.*, 43:B1057-B1080, 2021 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1392772?journalCode=sjoce3)].
 
