@@ -39,7 +39,7 @@ Journal Publications
 
 [J35] L. Einkemmer, J. Hu, and Y. Wang. An asymptotic-preserving dynamical low-rank method for the multi-scale multi-dimensional linear transport equation. *J. Comput. Phys.*, 439:110353, 2021 [[link](https://www.sciencedirect.com/science/article/pii/S0021999121002485)].
 
-[J34] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. *SIAM J. Numer. Anal.*, 59:613-633, 2021 [[link](https://epubs-siam-org.ezproxy.lib.purdue.edu/doi/abs/10.1137/20M1351813)].
+[J34] J. Hu, K. Qi, and T. Yang. A new stability and convergence proof of the Fourier-Galerkin spectral method for the spatially homogeneous Boltzmann equation. *SIAM J. Numer. Anal.*, 59:613-633, 2021 [[link](https://epubs.siam.org/doi/abs/10.1137/20M1351813)].
 
 [J33] J. Hu, J.-G. Liu, Y. Xie, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration. *J. Comput. Phys.*, 433:110195, 2021 [[link](https://www.sciencedirect.com/science/article/pii/S0021999121000905)].
 
