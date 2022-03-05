@@ -11,9 +11,7 @@ redirect_from:
 
 Preprints
 ====
-[PP8] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
-
-[PP7] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations. Submitted, 2021.
+[PP7] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
 
 [PP6] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
@@ -29,6 +27,8 @@ Preprints
 
 Journal Publications
 ====
+[J40] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), accepted, 2022.
+
 [J39] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2105.08806)].
 
 [J38] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. *SIAM J. Numer. Anal.*, 60:423-449, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1403175)].
