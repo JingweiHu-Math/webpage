@@ -11,7 +11,7 @@ redirect_from:
 
 Current Teaching at UW
 ======
-I am not teaching in Winter 2022.
+I am not teaching in Spring 2022.
 
 <!--
 [Spring 2021: MA 528 Advanced Mathematics for Engineers and Physicists II](https://jingweihu-math.github.io/webpage/teaching/2021-spring-teaching)
