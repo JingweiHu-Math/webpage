@@ -14,4 +14,4 @@ News
 ======
 * I am co-organizing the six-month scientific program at the Isaac Newton Institute: [Frontiers in kinetic theory: connecting microscopic to macroscopic scales – KineCon](https://www.newton.ac.uk/event/fkt/), Cambridge, UK, January 4th to June 24th, 2022.
 
-* To UW students: funding is avaiable for research assistantship. If you are interested in doing research with me, please feel free to reach out!
+* To UW students: funding is available for research assistantship. If you are interested in doing research with me, please feel free to reach out!
