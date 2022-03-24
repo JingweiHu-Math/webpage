@@ -11,22 +11,22 @@ redirect_from:
 
 Preprints
 ====
-[PP7] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
+[PP6] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
 
-[PP6] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
+[PP5] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
-[PP5] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
+[PP4] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
-[PP4] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.04667)].
+[PP3] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.04667)].
 
-[PP3] R. Delgadillo, J. Hu, and H. Yang. Multiscale and nonlocal learning for PDEs using densely connected RNNs. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.01790)].
+[PP2] R. Delgadillo, J. Hu, and H. Yang. Multiscale and nonlocal learning for PDEs using densely connected RNNs. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.01790)].
 
-[PP2] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2106.12428)].
-
-[PP1] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2103.16790)].
+[PP1] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2106.12428)].
 
 Journal Publications
 ====
+[J41] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2103.16790)].
+
 [J40] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), accepted, 2022.
 
 [J39] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2105.08806)].
