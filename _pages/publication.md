@@ -11,13 +11,13 @@ redirect_from:
 
 Preprints
 ====
-[PP6] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
+[PP6] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2204.10896)].
 
-[PP5] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
+[PP5] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
 
-[PP4] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
+[PP4] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
-[PP3] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.04667)].
+[PP3] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
 [PP2] R. Delgadillo, J. Hu, and H. Yang. Multiscale and nonlocal learning for PDEs using densely connected RNNs. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.01790)].
 
@@ -25,6 +25,8 @@ Preprints
 
 Journal Publications
 ====
+[J42] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2109.04667)].
+
 [J41] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2103.16790)].
 
 [J40] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), accepted, 2022.
