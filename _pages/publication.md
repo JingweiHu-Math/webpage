@@ -27,7 +27,7 @@ Journal Publications
 ====
 [J42] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2109.04667)].
 
-[J41] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2103.16790)].
+[J41] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, accepted, 2022 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
 
 [J40] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), accepted, 2022.
 
