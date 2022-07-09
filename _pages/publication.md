@@ -11,18 +11,18 @@ redirect_from:
 
 Preprints
 ====
-[PP5] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2204.10896)].
+[PP3] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2204.10896)].
 
-[PP4] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2112.02695)].
+[PP2] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
-[PP3] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
-
-[PP2] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
-
-[PP1] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2106.12428)].
+[PP1] Y. Yang, J. Hu, and Y. Lou. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
 Journal Publications
 ====
+[J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2106.12428)].
+
+[J43] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2112.02695)].
+
 [J42] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2109.04667)].
 
 [J41] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, accepted, 2022 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
