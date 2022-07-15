@@ -23,13 +23,13 @@ Journal Publications
 
 [J43] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2109.04667)].
 
-[J42] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, 92:75, 2022 [[link](https://link.springer.com/article/10.1007/s10915-022-01934-4)].
+[J42] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), accepted, 2022.
 
-[J41] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 00:1-35, 2022 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
+[J41] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, 92:75, 2022 [[link](https://link.springer.com/article/10.1007/s10915-022-01934-4)].
 
-[J40] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), accepted, 2022.
+[J40] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, 44:A1497-A1524 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1420721)].
 
-[J39] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, 44:A1497-A1524 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1420721)].
+[J39] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 00:1-35, 2022 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
 
 [J38] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. *SIAM J. Numer. Anal.*, 60:423-449, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1403175)].
 
