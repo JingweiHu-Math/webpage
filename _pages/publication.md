@@ -23,7 +23,7 @@ Journal Publications
 
 [J43] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2109.04667)].
 
-[J42] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (in Chinese). *Math. Numer. Sin.* (invited review), 44:289-304, 2022 [[link](https://www.computmath.com/jssx/CN/10.12286/jssx.j2021-0887)].
+[J42] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations. *Math. Numer. Sin.* (invited review, in Chinese), 44:289-304, 2022 [[link](https://www.computmath.com/jssx/CN/10.12286/jssx.j2021-0887)].
 
 [J41] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, 92:75, 2022 [[link](https://link.springer.com/article/10.1007/s10915-022-01934-4)].
 
