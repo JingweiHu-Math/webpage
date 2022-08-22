@@ -21,7 +21,7 @@ Journal Publications
 ====
 [J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2106.12428)].
 
-[J43] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2109.04667)].
+[J43] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, 44:B1045-B1067, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1445600)].
 
 [J42] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations. *Math. Numer. Sin.* (invited review, in Chinese), 44:289-304, 2022 [[link](https://www.computmath.com/jssx/CN/10.12286/jssx.j2021-0887)].
 
