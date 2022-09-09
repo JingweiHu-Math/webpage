@@ -12,10 +12,7 @@ I am an associate professor in the [Department of Applied Mathematics](https://a
 
 Contact Info
 ======
-Department of Applied Mathematics\
-University of Washington\
-Box 353925, Seattle, WA 98195-3925\
-\
+Email: hujw@uw.edu\
 Office: Lewis Hall 313\
 Phone(o): +1 (206) 221-1611
 
