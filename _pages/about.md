@@ -12,6 +12,6 @@ I am an associate professor in the [Department of Applied Mathematics](https://a
 
 News
 ======
-* I am co-organizing the six-month scientific program at the Isaac Newton Institute: [Frontiers in kinetic theory: connecting microscopic to macroscopic scales – KineCon](https://www.newton.ac.uk/event/fkt/), Cambridge, UK, January 4th to June 24th, 2022.
+* To UW students: If you are interested in doing research with me, please feel free to reach out!
 
-* To UW students: Funding is available for RAship in my group. If you are interested in doing research with me, please feel free to reach out!
+* I am co-organizing the [Applied Mathematics Seminar Series](https://sites.google.com/uw.edu/seminar-in-applied-mathematics/home) at UW. If you are interested in giving a talk, please let me know. 
