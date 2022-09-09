@@ -17,7 +17,7 @@ Preprints
 
 Journal Publications
 ====
-[J45] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
+[J45] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590, 2022 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
 
 [J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, 60:2345-2371, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1429023)].
 
