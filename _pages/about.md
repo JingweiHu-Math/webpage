@@ -10,6 +10,16 @@ redirect_from:
 
 I am an associate professor in the [Department of Applied Mathematics](https://amath.washington.edu) at the University of Washington. I also hold an adjunct professorship in the [William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/). My general research interests lie in numerical analysis and scientific computing.
 
+Contact Information
+======
+Department of Applied Mathematics
+University of Washington
+Lewis Hall, Box 353925
+Seattle, WA 98195-3925, USA
+
+Office: Lewis Hall 313
+Phone(o): +1 (206) 221-1611
+
 News
 ======
 * To UW students: If you are interested in doing research with me, please feel free to reach out!
