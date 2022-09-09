@@ -15,7 +15,7 @@ Contact Info
 Department of Applied Mathematics\
 University of Washington\
 Box 353925\
-Seattle, WA 98195-3925, USA\
+Seattle, WA 98195-3925\
 \
 Office: Lewis Hall 313\
 Phone(o): +1 (206) 221-1611
