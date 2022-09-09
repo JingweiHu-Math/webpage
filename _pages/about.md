@@ -20,7 +20,7 @@ Office: Lewis Hall 313\
 Phone(o): +1 (206) 221-1611
 
 
-xx
+News
 ======
 * To UW students: If you are interested in doing research with me, please feel free to reach out!
 
