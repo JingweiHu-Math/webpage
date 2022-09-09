@@ -11,15 +11,15 @@ redirect_from:
 
 Preprints
 ====
-[PP3] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2204.10896)].
-
 [PP2] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
 [PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
 Journal Publications
 ====
-[J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, accepted, 2022 [[arXiv](https://arxiv.org/abs/2106.12428)].
+[J45] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
+
+[J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, 60:2345-2371, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1429023)].
 
 [J43] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, 44:B1045-B1067, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1445600)].
 
