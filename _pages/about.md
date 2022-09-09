@@ -10,7 +10,7 @@ redirect_from:
 
 I am an associate professor in the [Department of Applied Mathematics](https://amath.washington.edu) at the University of Washington. I also hold an adjunct professorship in the [William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/). My general research interests lie in numerical analysis and scientific computing.
 
-Contact Information
+Contact Info
 ======
 Department of Applied Mathematics\
 University of Washington\
