@@ -12,12 +12,12 @@ I am an associate professor in the [Department of Applied Mathematics](https://a
 
 Contact Information
 ======
-Department of Applied Mathematics
-University of Washington
-Lewis Hall, Box 353925
-Seattle, WA 98195-3925, USA
-
-Office: Lewis Hall 313
+Department of Applied Mathematics\
+University of Washington\
+Lewis Hall, Box 353925\
+Seattle, WA 98195-3925, USA\
+\
+Office: Lewis Hall 313\
 Phone(o): +1 (206) 221-1611
 
 News
