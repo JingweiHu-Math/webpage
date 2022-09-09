@@ -14,13 +14,10 @@ Contact Info
 ======
 Department of Applied Mathematics\
 University of Washington\
-Box 353925\
-Seattle, WA 98195-3925\
+Box 353925, Seattle, WA 98195-3925\
 \
-Office: Lewis Hall 313\
-Phone(o): +1 (206) 221-1611
+Office: Lewis Hall 313   Phone(o): +1 (206) 221-1611
 
-News
 ======
 * To UW students: If you are interested in doing research with me, please feel free to reach out!
 
