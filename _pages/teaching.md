@@ -11,7 +11,7 @@ redirect_from:
 
 Current Teaching at UW
 ======
-Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables [[canvas]](https://canvas.uw.edu/)
+Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables [[ UW canvas]](https://canvas.uw.edu/)
 
 <!--
 [Spring 2021: MA 528 Advanced Mathematics for Engineers and Physicists II](https://jingweihu-math.github.io/webpage/teaching/2021-spring-teaching)
