@@ -69,7 +69,7 @@ Journal Publications
 
 [J20] J. Hu, R. Shu, and X. Zhang. Asymptotic-preserving and positivity-preserving implicit-explicit schemes for the stiff BGK equation. *SIAM J. Numer. Anal.*, 56:942-973, 2018 [[link](https://epubs.siam.org/doi/abs/10.1137/17M1144362)].
 
-[J19] J. Hu and X. Zhang. On a class of implicit-explicit Runge-Kutta schemes for stiff kinetic equations preserving the Navier-Stokes limit. *J. Sci. Comput.*, 73:797-818, 2017 (special issue dedicated to Chi-Wang Shu on the occasion of his 60th birthday) [[link](https://link.springer.com/article/10.1007/s10915-017-0499-3)].
+[J19] J. Hu and X. Zhang. On a class of implicit-explicit Runge-Kutta schemes for stiff kinetic equations preserving the Navier-Stokes limit (special issue dedicated to Chi-Wang Shu on the occasion of his 60th birthday). *J. Sci. Comput.*, 73:797-818, 2017 [[link](https://link.springer.com/article/10.1007/s10915-017-0499-3)].
 
 [J18] I. Gamba, J. Haack, C. Hauck, and J. Hu. A fast spectral method for the Boltzmann collision operator with general collision kernels. *SIAM J. Sci. Comput.*, 39:B658-B674, 2017 [[link](https://epubs.siam.org/doi/abs/10.1137/16M1096001)].
 
