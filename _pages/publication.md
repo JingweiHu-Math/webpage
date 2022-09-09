@@ -11,9 +11,9 @@ redirect_from:
 
 Preprints
 ====
-[PP2] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2110.08186)].
+[PP2] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
-[PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2021 [[arXiv](https://arxiv.org/abs/2109.06255)].
+[PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
 Journal Publications
 ====
