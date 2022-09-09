@@ -59,7 +59,7 @@ Journal Publications
 
 [J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. *J. Comput. Phys.*, 397:108838, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999119305224)].
 
-[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts. *Phys. Fluids*, 31:082002, 2019 (special issue on Direct Simulation Monte Carlo - The Legacy of Graeme A. Bird) [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)].
+[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts (special issue on Direct Simulation Monte Carlo - The Legacy of Graeme A. Bird). *Phys. Fluids*, 31:082002, 2019 [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)].
 
 [J23] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the multi-species Boltzmann equation. *Comput. Methods Appl. Mech. Engrg.*, 352:56-84, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S004578251930218X)][[code](https://github.com/jaisw7/dgfs1D_gpu)].
 
@@ -73,7 +73,7 @@ Journal Publications
 
 [J18] I. Gamba, J. Haack, C. Hauck, and J. Hu. A fast spectral method for the Boltzmann collision operator with general collision kernels. *SIAM J. Sci. Comput.*, 39:B658-B674, 2017 [[link](https://epubs.siam.org/doi/abs/10.1137/16M1096001)].
 
-[J17] R. Shu, J. Hu, and S. Jin. A stochastic Galerkin method for the Boltzmann equation with multi-dimensional random inputs using sparse wavelet bases. *Numer. Math. Theor. Meth. Appl.*, 10:465-488, 2017 (special issue dedicated to Zhenhuan Teng on the occasion of his 80th birthday) [[link](https://www.cambridge.org/core/journals/numerical-mathematics-theory-methods-and-applications/article/stochastic-galerkin-method-for-the-boltzmann-equation-with-multidimensional-random-inputs-using-sparse-wavelet-bases/0396898A2BDF4C2FC3BEADBBB8F6B494)].
+[J17] R. Shu, J. Hu, and S. Jin. A stochastic Galerkin method for the Boltzmann equation with multi-dimensional random inputs using sparse wavelet bases (special issue dedicated to Zhenhuan Teng on the occasion of his 80th birthday). *Numer. Math. Theor. Meth. Appl.*, 10:465-488, 2017 [[link](https://www.cambridge.org/core/journals/numerical-mathematics-theory-methods-and-applications/article/stochastic-galerkin-method-for-the-boltzmann-equation-with-multidimensional-random-inputs-using-sparse-wavelet-bases/0396898A2BDF4C2FC3BEADBBB8F6B494)].
 
 [J16] J. Sun, S. Fomel, T. Zhu, and J. Hu. Q-compensated least-squares reverse time migration using low-rank one-step wave extrapolation. *Geophysics*, 81:S271-S279,  2016 [[link](https://library.seg.org/doi/full/10.1190/geo2015-0520.1)].
 
