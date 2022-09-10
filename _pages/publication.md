@@ -27,7 +27,7 @@ Journal Publications
 
 [J41] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, 92:75, 2022 [[link](https://link.springer.com/article/10.1007/s10915-022-01934-4)].
 
-[J40] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multi-dimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, 44:A1497-A1524, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1420721)].
+[J40] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multidimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, 44:A1497-A1524, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1420721)].
 
 [J39] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 00:1-35, 2022 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
 
