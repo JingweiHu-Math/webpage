@@ -19,5 +19,5 @@ Phone (o): +1 (206) 221-1611
 
 News
 ======
-To UW students: If you are interested in doing research with me, please feel free to reach out!  
-I am co-organizing the [Seminar Series in Applied Mathematics](https://sites.google.com/uw.edu/seminar-in-applied-mathematics/home) at UW. If you are interested in giving a talk, please let me know.
+- To UW students: If you are interested in doing research with me, please feel free to reach out!
+- I am co-organizing the [Seminar Series in Applied Mathematics](https://sites.google.com/uw.edu/seminar-in-applied-mathematics/home) at UW. If you are interested in giving a talk, please let me know.
