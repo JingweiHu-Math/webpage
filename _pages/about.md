@@ -21,4 +21,4 @@ News
 ======
 - To UW students: If you are interested in doing research with me, please feel free to reach out!
 - I am co-organizing the [Seminar Series in Applied Mathematics](https://sites.google.com/uw.edu/seminar-in-applied-mathematics/home) at UW. If you are interested in giving a talk, please let me know.
-- Together with Fengyan Li (RPI) and Sara Pollock (U of Florida), we are puting together a topical collection through [La Matematica](https://www.springer.com/journal/44007/updates/23692654), featuring recent advances in numerical analysis and scientific computing. Submission is currently open. Please consider submmitting your work to our collection!
+- Together with Fengyan Li and Sara Pollock, we are puting together a [topical collection](https://www.springer.com/journal/44007/updates/23692654) through La Matematica, featuring recent advances in numerical analysis and scientific computing. Submission is currently open. Please consider submmitting your work to our collection!
