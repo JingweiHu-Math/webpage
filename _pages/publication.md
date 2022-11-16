@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Preprints
+# Preprints
 [PP2] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
 [PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
-## Journal Publications
+# Journal Publications
 [J45] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590, 2022 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
 
 [J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, 60:2345-2371, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1429023)].
@@ -105,14 +105,14 @@ redirect_from:
 
 [J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. *Kinet. Relat. Models*, 4:517-530, 2011 [[link](http://www.aimsciences.org/journals/displayArticles.jsp?paperID=6092)].
 
-## Book Chapters
+# Book Chapters
 [BC3] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. In G. Albi, S. Merino-Aceituno, A. Nota, and M. Zanella, editors, *Trails in Kinetic Theory*, pages 1-36. SEMA SIMAI Springer Series vol 25, 2021 [[link](https://link.springer.com/chapter/10.1007/978-3-030-67104-4_1)][[pdf](http://jingweihu-math.github.io/webpage/files/CHMR21.pdf)].
 
 [BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, *Uncertainty Quantification for Hyperbolic and Kinetic Equations*, pages 193-229. SEMA SIMAI Springer Series vol 14, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
 
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, *Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues*, chapter 5, pages 103-129. North-Holland, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S1570865916300102)][[pdf](http://jingweihu-math.github.io/webpage/files/HJL17.pdf)].
 
-## Selected Conference Publications
+# Selected Conference Publications
 [C5] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In *Proceedings of the 31st International Symposium on Rarefied Gas Dynamics*, AIP Conf. Proc., 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)].
 
 [C4] J. Hu, S. Jin, and R. Shu. A stochastic Galerkin method for the Fokker-Planck-Landau equation with random uncertainties. In C. Klingenberg and M. Westdickenberg, editors, *Theory, Numerics and Applications of Hyperbolic Problems II. HYP 2016*, Springer Proceedings in Mathematics & Statistics, 2018 [[link](https://link.springer.com/chapter/10.1007/978-3-319-91548-7_1)].
