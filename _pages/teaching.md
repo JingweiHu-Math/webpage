@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Current Teaching at UW
-======
 Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables [[canvas](https://canvas.uw.edu/)]
 
 <!--
