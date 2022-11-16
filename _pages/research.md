@@ -21,4 +21,4 @@ Some of my recent representative work includes:
 * Uncertainty quantification for kinetic equations
 
 
-## I gratefully acknowledge the support of NSF, AFOSR, and DOE in making this work possible.
+### I gratefully acknowledge the support of NSF, AFOSR, and DOE in making this work possible.
