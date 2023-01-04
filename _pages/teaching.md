@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-Autumn 2022: AMATH 585 Numerical Analysis of Boundary Value Problems [[canvas](https://canvas.uw.edu/)]
+Winter 2023: AMATH 585 Numerical Analysis of Boundary Value Problems [[canvas](https://canvas.uw.edu/)]
 
 ## Past Teaching at UW
 * Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables
