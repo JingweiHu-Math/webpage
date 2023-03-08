@@ -10,11 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP2] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2110.08186)].
+[PP3] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
+
+[PP2] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. Submitted, 2022.
 
 [PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
 # Journal Publications
+[J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2110.08186)].
+
 [J45] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590, 2022 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
 
 [J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, 60:2345-2371, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1429023)].
