@@ -110,9 +110,9 @@ redirect_from:
 [J1] J. Hu and S. Jin. On kinetic flux vector splitting schemes for quantum Euler equations. *Kinet. Relat. Models*, 4:517-530, 2011 [[link](http://www.aimsciences.org/journals/displayArticles.jsp?paperID=6092)].
 
 # Book Chapters
-[BC3] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. In G. Albi, S. Merino-Aceituno, A. Nota, and M. Zanella, editors, *Trails in Kinetic Theory*, pages 1-36. SEMA SIMAI Springer Series vol 25, 2021 [[link](https://link.springer.com/chapter/10.1007/978-3-030-67104-4_1)][[pdf](http://jingweihu-math.github.io/webpage/files/CHMR21.pdf)].
+[BC3] J. Carrillo, J. Hu, Z. Ma, and T. Rey. Recent development in kinetic theory of granular materials: analysis and numerical methods. In G. Albi, S. Merino-Aceituno, A. Nota, and M. Zanella, editors, *Trails in Kinetic Theory*, volume 25, pages 1-36. SEMA SIMAI Springer Series, 2021 [[link](https://link.springer.com/chapter/10.1007/978-3-030-67104-4_1)][[pdf](http://jingweihu-math.github.io/webpage/files/CHMR21.pdf)].
 
-[BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, *Uncertainty Quantification for Hyperbolic and Kinetic Equations*, pages 193-229. SEMA SIMAI Springer Series vol 14, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
+[BC2] J. Hu and S. Jin. Uncertainty quantification for kinetic equations. In S. Jin and L. Pareschi, editors, *Uncertainty Quantification for Hyperbolic and Kinetic Equations*, volume 14, pages 193-229. SEMA SIMAI Springer Series, 2017 [[link](https://link.springer.com/chapter/10.1007/978-3-319-67110-9_6)][[pdf](http://jingweihu-math.github.io/webpage/files/HJ17.pdf)].
 
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, *Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues*, chapter 5, pages 103-129. North-Holland, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S1570865916300102)][[pdf](http://jingweihu-math.github.io/webpage/files/HJL17.pdf)].
 
