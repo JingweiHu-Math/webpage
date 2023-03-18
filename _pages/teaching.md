@@ -10,9 +10,10 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-Winter 2023: AMATH 585 Numerical Analysis of Boundary Value Problems [[canvas](https://canvas.uw.edu/)]
+I am not teaching in Spring 2023.
 
 ## Past Teaching at UW
+* Winter 2023: AMATH 585 Numerical Analysis of Boundary Value Problems
 * Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables
 * Autumn 2021: AMATH 584 Applied Linear Algebra and Introductory Numerical Analysis
 
