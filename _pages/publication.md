@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP4] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker- Planck-Landau system. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2305.17447)].
+
 [PP3] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
 
 [PP2] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. Submitted, 2022.
