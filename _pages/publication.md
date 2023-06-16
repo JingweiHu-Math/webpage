@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP4] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker- Planck-Landau system. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2305.17447)].
+[PP5] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2306.08742)].
+
+[PP4] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2305.17447)].
 
 [PP3] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
 
@@ -21,19 +23,19 @@ redirect_from:
 # Journal Publications
 [J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
-[J45] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590, 2022 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
+[J45] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 43:1450--1484, 2023 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
 
-[J44] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, 60:2345-2371, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1429023)].
+[J44] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590, 2022 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
 
-[J43] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, 44:B1045-B1067, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1445600)].
+[J43] Z. Cai, J. Hu, Y. Kuang, and B. Lin. An entropic method for discrete systems with Gibbs entropy. *SIAM J. Numer. Anal.*, 60:2345-2371, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1429023)].
 
-[J42] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (invited review, in Chinese). *Math. Numer. Sin.*, 44:289-304, 2022 [[link](https://www.computmath.com/jssx/CN/10.12286/jssx.j2021-0887)].
+[J42] Q. He, J. Hu, and Z. Zhou. A structure preserving numerical scheme for Fokker-Planck equations of structured neural networks with learning rules. *SIAM J. Sci. Comput.*, 44:B1045-B1067, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1445600)].
 
-[J41] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, 92:75, 2022 [[link](https://link.springer.com/article/10.1007/s10915-022-01934-4)].
+[J41] J. Hu. Fourier spectral methods for nonlinear Boltzmann equations (invited review, in Chinese). *Math. Numer. Sin.*, 44:289-304, 2022 [[link](https://www.computmath.com/jssx/CN/10.12286/jssx.j2021-0887)].
 
-[J40] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multidimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, 44:A1497-A1524, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1420721)].
+[J40] J. Hu and Y. Wang. An adaptive dynamical low rank method for the nonlinear Boltzmann equation. *J. Sci. Comput.*, 92:75, 2022 [[link](https://link.springer.com/article/10.1007/s10915-022-01934-4)].
 
-[J39] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 00:1-35, 2022 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
+[J39] J. Hu, X. Huang, J. Shen, and H. Yang. A fast Petrov-Galerkin spectral method for the multidimensional Boltzmann equation using mapped Chebyshev functions. *SIAM J. Sci. Comput.*, 44:A1497-A1524, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1420721)].
 
 [J38] S. Gottlieb, Z. Grant, J. Hu, and R. Shu. High order strong stability preserving multi-derivative implicit and IMEX Runge-Kutta methods with asymptotic preserving properties. *SIAM J. Numer. Anal.*, 60:423-449, 2022 [[link](https://epubs.siam.org/doi/abs/10.1137/21M1403175)].
 
