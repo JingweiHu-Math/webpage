@@ -23,7 +23,7 @@ redirect_from:
 # Journal Publications
 [J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2110.08186)].
 
-[J45] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 43:1450--1484, 2023 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
+[J45] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 43:1450-1484, 2023 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
 
 [J44] J. Coughlin and J. Hu. Efficient dynamical low-rank approximation for the Vlasov-Ampere-Fokker-Planck system. *J. Comput. Phys.*, 470:111590, 2022 [[link](https://www.sciencedirect.com/science/article/pii/S0021999122006520)].
 
