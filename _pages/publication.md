@@ -21,7 +21,7 @@ redirect_from:
 [PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2109.06255)].
 
 # Journal Publications
-[J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2110.08186)].
+[J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, 83:1315-1339, 2023 [[link](https://epubs.siam.org/doi/10.1137/22M1488703)].
 
 [J45] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 43:1450-1484, 2023 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
 
