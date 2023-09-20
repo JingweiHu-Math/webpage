@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-I am not teaching in Spring 2023.
+I am not teaching in Autumn 2023.
 
 ## Past Teaching at UW
 * Winter 2023: AMATH 585 Numerical Analysis of Boundary Value Problems
