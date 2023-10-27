@@ -10,17 +10,19 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2306.08742)].
+[PP4] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
 
-[PP4] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2305.17447)].
+[PP3] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2306.08742)].
 
-[PP3] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
+[PP2] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2305.17447)].
 
-[PP2] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. Submitted, 2022.
-
-[PP1] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. Submitted, 2022 [[arXiv](https://arxiv.org/abs/2109.06255)].
+[PP1] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. Submitted, 2022.
 
 # Journal Publications
+[J48] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. *La Matematica*, accpeted, 2023 [[arXiv](https://arxiv.org/abs/2109.06255)].
+
+[J47] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
+
 [J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, 83:1315-1339, 2023 [[link](https://epubs.siam.org/doi/10.1137/22M1488703)].
 
 [J45] J. Hu and X. Zhang. Positivity-preserving and energy-dissipative finite difference schemes for the Fokker-Planck and Keller-Segel equations. *IMA J. Numer. Anal.*, 43:1450-1484, 2023 [[link](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac014/6585764)].
