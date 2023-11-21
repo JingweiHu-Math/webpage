@@ -21,9 +21,9 @@ redirect_from:
 [PP1] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. Submitted, 2022.
 
 # Journal Publications
-[J48] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. *La Matematica*, accpeted, 2023 [[arXiv](https://arxiv.org/abs/2109.06255)].
+[J48] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
 
-[J47] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
+[J47] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. *La Matematica*, accpeted, 2023 [[link](https://link.springer.com/article/10.1007/s44007-023-00077-8)].
 
 [J46] R. Bailo, J. Carrillo, and J. Hu. Bound-preserving finite-volume schemes for systems of continuity equations with saturation. *SIAM J. Appl. Math.*, 83:1315-1339, 2023 [[link](https://epubs.siam.org/doi/10.1137/22M1488703)].
 
