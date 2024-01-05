@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP6] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
+
 [PP5] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2311.09425)].
 
 [PP4] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
