@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP7] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Amp`ere system with Dougherty-Fokker-Planck collision operator. Submitted, 2024.
+
 [PP6] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
 
 [PP5] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2311.09425)].
@@ -23,7 +25,7 @@ redirect_from:
 [PP1] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. Submitted, 2022.
 
 # Journal Publications
-[J48] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, accepted, 2023 [[arXiv](https://arxiv.org/abs/2212.12012)].
+[J48] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, 62:73-92, 2024 [[link](https://epubs.siam.org/doi/full/10.1137/23M1547603)].
 
 [J47] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. *La Matematica*, 2023 [[link](https://link.springer.com/article/10.1007/s44007-023-00077-8)].
 
