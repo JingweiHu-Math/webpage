@@ -14,7 +14,7 @@ Contact
 ======
 Email: hujw@uw.edu\
 Office: Lewis Hall 313\
-Phone (o): +1 (206) 221-1611
+Phone (o): +1(206)221-1611
 
 
 News
