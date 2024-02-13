@@ -127,7 +127,7 @@ redirect_from:
 [BC1] J. Hu, S. Jin, and Q. Li. Asymptotic-preserving schemes for multiscale hyperbolic and kinetic equations. In R. Abgrall and C.-W. Shu, editors, *Handbook of Numerical Methods for Hyperbolic Problems: Applied and Modern Issues*, chapter 5, pages 103-129. North-Holland, 2017 [[link](https://www.sciencedirect.com/science/article/pii/S1570865916300102)][[pdf](http://jingweihu-math.github.io/webpage/files/HJL17.pdf)].
 
 # Selected Conference Publications
-[C6] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. In *Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics*, AIP Conf. Proc., 2996:060002, 2014 [[link](https://pubs.aip.org/aip/acp/article/2996/1/060002/3262548/)].
+[C6] N. Adhikari, B. Morton, A. Alexeenko, and J. Hu. Verification of a discontinuous Galerkin fast spectral solver for the full Boltzmann equation. In *Proceedings of the 32nd International Symposium on Rarefied Gas Dynamics*, AIP Conf. Proc., 2996:060002, 2024 [[link](https://pubs.aip.org/aip/acp/article/2996/1/060002/3262548/)].
 
 [C5] S. Jaiswal, J. Hu, and A. Alexeenko. Fast deterministic solution of the full Boltzmann equation on Graphics Processing Units. In *Proceedings of the 31st International Symposium on Rarefied Gas Dynamics*, AIP Conf. Proc., 2132:060001, 2019 [[link](https://aip.scitation.org/doi/10.1063/1.5119541)].
 
