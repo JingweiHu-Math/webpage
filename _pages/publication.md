@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP6] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. Submitted, 2024.
+[PP5] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. Submitted, 2024.
 
-[PP5] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
+[PP4] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
 
-[PP4] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2311.09425)].
+[PP3] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2311.09425)].
 
-[PP3] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
+[PP2] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
 
-[PP2] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2306.08742)].
-
-[PP1] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2305.17447)].
+[PP1] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2306.08742)].
 
 # Journal Publications
+[J49] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. *Kinet. Relat. Models*, accepted [[arXiv](https://arxiv.org/abs/2305.17447)].
+
 [J48] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, 62:73-92, 2024 [[link](https://epubs.siam.org/doi/full/10.1137/23M1547603)].
 
 [J47] B. Zhu, J. Hu, Y. Lou, and Y. Yang. Implicit regularization effects of the Sobolev norms in image processing. *La Matematica*, 2023 [[link](https://link.springer.com/article/10.1007/s44007-023-00077-8)].
