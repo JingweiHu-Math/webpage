@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-I am not teaching in Winter 2024.
+* Spring 2024: AMATH 586 Numerical Methods for Partial Differential Equations; AMATH 590 Applied Gradient Flows (please refer to the UW Canvas page for details)
 
 ## Past Teaching at UW
 * Winter 2023: AMATH 585 Numerical Analysis of Boundary Value Problems
