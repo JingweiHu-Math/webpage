@@ -23,4 +23,4 @@ Some of my recent representative work includes:
 
 ### I gratefully acknowledge the support of NSF, AFOSR, DOE, and PIMS in making this work possible.
 
-![grant logo](/_assets/funding.pdf)
+![grant logo](/assets/funding.pdf)
