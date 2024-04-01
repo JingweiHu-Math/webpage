@@ -13,9 +13,9 @@ redirect_from:
 * Spring 2024: AMATH 586 Numerical Methods for Partial Differential Equations; AMATH 590 Applied Gradient Flows (please refer to the UW Canvas page for details)
 
 ## Past Teaching at UW
-* Winter 2023: AMATH 585 Numerical Analysis of Boundary Value Problems
+* Winter 2023: AMATH 585 Numerical Analysis
 * Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables
-* Autumn 2021: AMATH 584 Applied Linear Algebra and Introductory Numerical Analysis
+* Autumn 2021: AMATH 584 Numerical Linear Algebra
 
 ## Past Teaching at Purdue
 * MA 692 Topic Course in Applied Math: Introduction to Kinetic Theory, Spring 2018, Spring 2016
