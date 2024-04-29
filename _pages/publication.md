@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
+[PP4] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
 
-[PP4] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. Submitted, 2024.
+[PP3] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. Submitted, 2024.
 
-[PP3] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
-
-[PP2] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2311.09425)].
+[PP2] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
 
 [PP1] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
 
 # Journal Publications
-[J50] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., accepted [[arXiv](https://arxiv.org/abs/2306.08742)].
+[J51] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2311.09425)].
 
-[J49] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. *Kinet. Relat. Models*, accepted [[arXiv](https://arxiv.org/abs/2305.17447)].
+[J50] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., online first [[link](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03967-4/?active=current)].
+
+[J49] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. *Kinet. Relat. Models*, online first [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2024007)].
 
 [J48] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, 62:73-92, 2024 [[link](https://epubs.siam.org/doi/full/10.1137/23M1547603)].
 
