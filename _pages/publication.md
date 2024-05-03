@@ -19,7 +19,7 @@ redirect_from:
 [PP1] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
 
 # Journal Publications
-[J51] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2311.09425)].
+[J51] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, 509:113055, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124003048)].
 
 [J50] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., online first [[link](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03967-4/?active=current)].
 
