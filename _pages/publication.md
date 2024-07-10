@@ -10,17 +10,17 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2407.00533)].
+[PP4] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2407.00533)].
 
-[PP4] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2405.10392)].
+[PP3] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2405.10392)].
 
-[PP3] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
-
-[PP2] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2401.01689)].
+[PP2] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
 
 [PP1] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. Submitted, 2023 [[arXiv](https://arxiv.org/abs/2310.16143)].
 
 # Journal Publications
+[J51] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. *J. Plasma Phys.*, accepted [[arXiv](https://arxiv.org/abs/2401.01689)].
+
 [J52] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. *J. Comput. Phys.*, 514:113219, 2024, [[link](https://www.sciencedirect.com/science/article/pii/S0021999124004686)].
 
 [J51] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, 509:113055, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124003048)].
