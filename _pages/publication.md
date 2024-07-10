@@ -21,7 +21,7 @@ redirect_from:
 # Journal Publications
 [J53] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. *J. Plasma Phys.*, accepted [[arXiv](https://arxiv.org/abs/2401.01689)].
 
-[J52] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. *J. Comput. Phys.*, 514:113219, 2024, [[link](https://www.sciencedirect.com/science/article/pii/S0021999124004686)].
+[J52] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. *J. Comput. Phys.*, 514:113219, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124004686)].
 
 [J51] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, 509:113055, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124003048)].
 
