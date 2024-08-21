@@ -29,7 +29,7 @@ redirect_from:
 
 [J50] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., online first [[link](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03967-4/?active=current)].
 
-[J49] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. *Kinet. Relat. Models*, online first [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2024007)].
+[J49] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. *Kinet. Relat. Models*, 17:939-970, 2024 [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2024007)].
 
 [J48] L. Einkemmer, J. Hu, and J. Kusch. Asymptotic-preserving and energy stable dynamical low-rank approximation. *SIAM J. Numer. Anal.*, 62:73-92, 2024 [[link](https://epubs.siam.org/doi/full/10.1137/23M1547603)].
 
