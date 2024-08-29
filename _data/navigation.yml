@@ -6,14 +6,15 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Members"
-    url: /members/
-    
   - title: "Publication"
     url: /publication/
 
   - title: "Teaching"
     url: /teaching/  
+
+  #- title: "Members"
+  #   url: /members/
+    
       
   #- title: "Talks"
   #  url: /talks/    
