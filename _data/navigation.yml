@@ -9,12 +9,12 @@ main:
   - title: "Publication"
     url: /publication/
 
+  - title: "Members"
+    url: /members/
+
   - title: "Teaching"
     url: /teaching/  
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-  
+      
   #- title: "Talks"
   #  url: /talks/    
         
