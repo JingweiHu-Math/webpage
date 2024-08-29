@@ -5,12 +5,12 @@ main:
 
   - title: "Research"
     url: /research/
-    
-  - title: "Publication"
-    url: /publication/
 
   - title: "Members"
     url: /members/
+    
+  - title: "Publication"
+    url: /publication/
 
   - title: "Teaching"
     url: /teaching/  
