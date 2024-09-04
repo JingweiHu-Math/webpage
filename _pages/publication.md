@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP7] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2409.01910)].
+
 [PP6] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.16105)].
 
 [PP5] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
