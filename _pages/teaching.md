@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-
+Autumn 2024: AMATH 584 Numerical Linear Algebra
 
 ## Past Teaching at UW
 * Spring 2024: AMATH 586 Numerical Methods for Partial Differential Equations; AMATH 590 Applied Gradient Flows
