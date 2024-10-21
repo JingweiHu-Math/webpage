@@ -23,15 +23,15 @@ redirect_from:
 [PP1] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
 
 # Journal Publications
-[J54] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. *Acta Appl. Math.*, accepted [[arXiv](https://arxiv.org/abs/2310.16143)].
+[J54] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., 994:209-240, 2025 [[link](https://www.ams.org/journals/mcom/2025-94-351/S0025-5718-2024-03967-4/?active=current)].
 
-[J53] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. *J. Plasma Phys.*, accepted [[arXiv](https://arxiv.org/abs/2401.01689)].
+[J53] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. *Acta Appl. Math.*, 194:6, 2024 [[link](https://link.springer.com/article/10.1007/s10440-024-00692-9)].
 
-[J52] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. *J. Comput. Phys.*, 514:113219, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124004686)].
+[J52] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. *J. Plasma Phys.*, 90:905900415, 2024 [[link](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/collisional-particleincell-method-for-the-vlasovmaxwelllandau-equations/264A7956B5C5C8DC5A3CD98C521F2C14)].
 
-[J51] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, 509:113055, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124003048)].
+[J51] B. Ye, J. Hu, C.-W. Shu, and X. Zhong. Energy-conserving discontinuous Galerkin methods for the Vlasov-Ampere system with Dougherty-Fokker-Planck collision operator. *J. Comput. Phys.*, 514:113219, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124004686)].
 
-[J50] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., online first [[link](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03967-4/?active=current)].
+[J50] J. Coughlin, J. Hu, and U. Shumlak. Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition. *J. Comput. Phys.*, 509:113055, 2024 [[link](https://www.sciencedirect.com/science/article/pii/S0021999124003048)].
 
 [J49] J. Hu, A. Jungel, and N. Zamponi. Global weak solutions for a nonlocal multispecies Fokker-Planck-Landau system. *Kinet. Relat. Models*, 17:939-970, 2024 [[link](https://www.aimsciences.org/article/doi/10.3934/krm.2024007)].
 
