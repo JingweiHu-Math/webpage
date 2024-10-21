@@ -23,7 +23,7 @@ redirect_from:
 [PP1] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
 
 # Journal Publications
-[J54] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. Math. Comp., 994:209-240, 2025 [[link](https://www.ams.org/journals/mcom/2025-94-351/S0025-5718-2024-03967-4/?active=current)].
+[J54] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. *Math. Comp.*, 994:209-240, 2025 [[link](https://www.ams.org/journals/mcom/2025-94-351/S0025-5718-2024-03967-4/?active=current)].
 
 [J53] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. *Acta Appl. Math.*, 194:6, 2024 [[link](https://link.springer.com/article/10.1007/s10440-024-00692-9)].
 
