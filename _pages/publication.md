@@ -25,7 +25,7 @@ redirect_from:
 # Journal Publications
 [J54] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. *Math. Comp.*, 994:209-240, 2025 [[link](https://www.ams.org/journals/mcom/2025-94-351/S0025-5718-2024-03967-4/?active=current)].
 
-[J53] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation. *Acta Appl. Math.*, 194:6, 2024 [[link](https://link.springer.com/article/10.1007/s10440-024-00692-9)].
+[J53] J. Carrillo, J. Hu, and S. Van Fleet. A particle method for the multispecies Landau equation (special collection dedicated to Shi Jin on the occasion of his 60th birthday). *Acta Appl. Math.*, 194:6, 2024 [[link](https://link.springer.com/article/10.1007/s10440-024-00692-9)].
 
 [J52] R. Bailo, J. Carrillo, and J. Hu. The collisional particle-in-cell method for the Vlasov-Maxwell-Landau equations. *J. Plasma Phys.*, 90:905900415, 2024 [[link](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/collisional-particleincell-method-for-the-vlasovmaxwelllandau-equations/264A7956B5C5C8DC5A3CD98C521F2C14)].
 
