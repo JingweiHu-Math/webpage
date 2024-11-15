@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP8] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2410.19143)].
+
+[PP7] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2411.09605)].
+
 [PP6] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2409.01910)].
 
 [PP5] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.16105)].
