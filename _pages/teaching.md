@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-Autumn 2024: AMATH 584 Numerical Linear Algebra [[canvas](https://canvas.uw.edu/)]
 
 ## Past Teaching at UW
+* Autumn 2024: AMATH 584 Numerical Linear Algebra
 * Spring 2024: AMATH 586 Numerical Methods for Partial Differential Equations; AMATH 590 Applied Gradient Flows
 * Winter 2023: AMATH 585 Numerical Analysis
 * Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables
