@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP8] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
+
 [PP7] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2410.19143)].
 
 [PP6] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2411.09605)].
