@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Current PhD students
+# Current PhD Students
 * Howard Yu-Hao Cheng (co-supervise with Uri Shumlak)
 * Mark Dunn (co-supervise with Uri Shumlak)
 * Vasily Ilin
@@ -19,7 +19,7 @@ redirect_from:
 * Geshuo Wang
 * Shiheng Zhang
   
-## Past PhD students
+## Past PhD Students
 * Jack Coughlin, 2024 (co-supervise with Uri Shumlak)
 * Xiaodong Huang, 2021
 * Yubo Wang, 2021
