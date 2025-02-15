@@ -10,23 +10,23 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP8] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
+[PP7] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
 
-[PP7] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2410.19143)].
+[PP6] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2410.19143)].
 
-[PP6] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2411.09605)].
+[PP5] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2411.09605)].
 
-[PP5] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2409.01910)].
+[PP4] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2409.01910)].
 
-[PP4] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.16105)].
+[PP3] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.16105)].
 
-[PP3] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
-
-[PP2] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2405.10392)].
+[PP2] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 [PP1] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2404.11775)].
 
 # Journal Publications
+[J56] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
+
 [J55] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2407.00533)].
 
 [J54] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. *Math. Comp.*, 94:209-240, 2025 [[link](https://www.ams.org/journals/mcom/2025-94-351/S0025-5718-2024-03967-4/?active=current)].
