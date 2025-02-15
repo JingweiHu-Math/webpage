@@ -10,13 +10,21 @@ redirect_from:
 {% include base_path %}
 
 # Current PhD students
-* Howard
+* Howard Yu-Hao Cheng (co-supervise with Uri Shumlak)
+* Mark Dunn (co-supervise with Uri Shumlak)
+* Vasily Ilin
+* Jiyoung Yoo
 
 # Current Postdocs
-* Shiheng 
+* Geshuo Wang
+* Shiheng Zhang
   
-# Past PhD students
-* Yubo
+## Past PhD students
+* Jack Coughlin, 2024 (co-supervise with Uri Shumlak)
+* Xiaodong Huang, 2021
+* Yubo Wang, 2021
+* Shashank Jaiswal, 2021 (co-supervise with Alina Alexeenko)
 
-# Past Postdocs
-* Sam
+## Past Postdocs
+* Sam Van Fleet (2022-2024)
+* Zheng Ma (2017-2020)
