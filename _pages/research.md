@@ -22,5 +22,5 @@ Some of my recent representative work includes:
 * Structure-preserving particle methods for kinetic equations
 
 
-### I gratefully acknowledge the support of NSF, AFOSR, DOE, and PIMS, which made this work possible.
+### I gratefully acknowledge the support of NSF, AFOSR, DOE, and PIMS in making this work possible.
 <img src="../images/funding.png" width="750" />
