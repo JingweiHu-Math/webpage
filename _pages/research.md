@@ -23,3 +23,6 @@ Some of my recent representative work includes:
 
 
 ### I gratefully acknowledge the support of the NSF, AFOSR, DOE, and PIMS for making this work possible.
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/funding.pdf)
