@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-Spring 2025: AMATH 586 Numerical Methods for Partial Differential Equations
+Spring 2025: AMATH 586 Numerical Methods for Partial Differential Equations [[Canvas](https://canvas.uw.edu/courses/1799387)].
 
 ## Past Teaching at UW
 * Autumn 2024: AMATH 584 Numerical Linear Algebra
