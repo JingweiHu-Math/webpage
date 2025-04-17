@@ -23,11 +23,11 @@ redirect_from:
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
-[J57] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. *J. Stat. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2404.11775)].
+[J57] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
 
-[J56] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
+[J56] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2407.00533)].
 
-[J55] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2407.00533)].
+[J55] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. *J. Stat. Phys.*, 192:59, 2025 [[link](https://link.springer.com/article/10.1007/s10955-025-03436-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250417&utm_content=10.1007/s10955-025-03436-7)].
 
 [J54] J. Hu and R. Shu. Uniform accuracy of implicit-explicit Runge-Kutta (IMEX-RK) schemes for hyperbolic systems with relaxation. *Math. Comp.*, 94:209-240, 2025 [[link](https://www.ams.org/journals/mcom/2025-94-351/S0025-5718-2024-03967-4/?active=current)].
 
