@@ -20,11 +20,11 @@ redirect_from:
 * Shiheng Zhang
   
 ## Past PhD Students
-* Jack Coughlin, 2024 (co-supervise with Uri Shumlak)
-* Xiaodong Huang, 2021
-* Yubo Wang, 2021
-* Shashank Jaiswal, 2021 (co-supervise with Alina Alexeenko)
+* Jack Coughlin, UW 2024 (co-supervise with Uri Shumlak)
+* Xiaodong Huang, Purdue 2021
+* Yubo Wang, Purdue 2021
+* Shashank Jaiswal, Purdue 2021 (co-supervise with Alina Alexeenko)
 
 ## Past Postdocs
-* Sam Van Fleet (2022-2024)
-* Zheng Ma (2017-2020)
+* Sam Van Fleet, UW (2022-2024)
+* Zheng Ma, Purdue (2017-2020)
