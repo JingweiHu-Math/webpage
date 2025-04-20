@@ -27,7 +27,7 @@ redirect_from:
 * NSF CAREER Award, 2017
 * Teaching for Tomorrow Award, Purdue University, 2015
 * BEG First Author Publication Award, The University of Texas at Austin, 2014
-* Peter O’Donnell, Jr. Postdoctoral Fellowship, The University of Texas at Austin, 2011
+* Peter O’Donnell Jr. Postdoctoral Fellowship, The University of Texas at Austin, 2011
 * Elizabeth S. Hirschfelder Scholarship, University of Wisconsin-Madison, 2010
 
 # Editorial Boards
