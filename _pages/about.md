@@ -27,5 +27,5 @@ News
 --->
 - We are organizing a Summer School and Hackathon on Structure-Preserving Scientific
 Computing and Machine Learning from June 16 to 25, 2025, at the University of Washington. For more details and to apply, see [here](https://sites.google.com/view/crg-spd/events/seattle-2025).
-- I am co-organizing the [Seminar Series in Applied Mathematics](https://sites.google.com/uw.edu/seminar-in-applied-mathematics/home) at UW. If you are interested in giving a talk, please let me know.
+- I am co-organizing the [Seminar Series in Applied Mathematics](https://amath.washington.edu/seminar-applied-mathematics) at UW. If you are interested in giving a talk, please let me know.
 - Together with Fengyan Li and Sara Pollock, we are putting together a [topical collection](https://www.springer.com/journal/44007/updates/23692654) through La Matematica, featuring recent advances in numerical analysis and scientific computing. Submission is currently open. Please consider submmitting your work to our collection!
