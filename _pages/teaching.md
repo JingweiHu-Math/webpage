@@ -13,11 +13,11 @@ redirect_from:
 Spring 2025: AMATH 586 Numerical Methods for Partial Differential Equations [[Canvas](https://canvas.uw.edu/courses/1799387)].
 
 ## Past Teaching at UW
-* Autumn 2024: AMATH 584 Numerical Linear Algebra
-* Spring 2024: AMATH 586 Numerical Methods for Partial Differential Equations; AMATH 590 Applied Gradient Flows
-* Winter 2023: AMATH 585 Numerical Analysis
-* Autumn 2022: AMATH 401/501 Vector Calculus and Complex Variables
-* Autumn 2021: AMATH 584 Numerical Linear Algebra
+* AMATH 590 Applied Gradient Flows (topic course), Spring 2024
+* AMATH 586 Numerical Methods for Partial Differential Equations, Spring 2024
+* AMATH 585 Numerical Analysis, Winter 2023
+* AMATH 584 Numerical Linear Algebra, Autumn 2024, Autumn 2021
+* AMATH 401/501 Vector Calculus and Complex Variables, Autumn 2022
 
 ## Past Teaching at Purdue
 * MA 692 Topic Course in Applied Math: Introduction to Kinetic Theory, Spring 2018, Spring 2016
