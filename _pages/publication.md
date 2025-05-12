@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP6] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
-
-[PP5] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2410.19143)].
+[PP5] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
 
 [PP4] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2411.09605)].
 
@@ -23,6 +21,8 @@ redirect_from:
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
+[J58] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. *Comput. Math. Appl.*, accepted [[arXiv](https://arxiv.org/abs/2410.19143)].
+
 [J57] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
 
 [J56] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2407.00533)].
