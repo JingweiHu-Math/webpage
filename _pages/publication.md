@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
-
-[PP4] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2411.09605)].
+[PP4] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2502.08951)].
 
 [PP3] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2409.01910)].
 
@@ -21,11 +19,13 @@ redirect_from:
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
+[J59] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2411.09605)].
+
 [J58] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. *Comput. Math. Appl.*, accepted [[arXiv](https://arxiv.org/abs/2410.19143)].
 
 [J57] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
 
-[J56] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2407.00533)].
+[J56] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, 47:A1835-A1857, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1674054)].
 
 [J55] E. Habbershaw, C. Hauck, J. Hu, and J. Haack. A nonlinear, conservative, entropic Fokker-Planck model for multi-species collisions. *J. Stat. Phys.*, 192:59, 2025 [[link](https://link.springer.com/article/10.1007/s10955-025-03436-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250417&utm_content=10.1007/s10955-025-03436-7)].
 
