@@ -129,7 +129,7 @@ redirect_from:
 
 [J5] J. Hu, S. Fomel, L. Demanet, and L. Ying. A fast butterfly algorithm for generalized Radon transforms. *Geophysics*, 78:U41-U51, 2013 [[link](https://library.seg.org/doi/abs/10.1190/geo2012-0240.1)].
 
-[J4] J. Hu and L. Ying. A fast spectral algorithm for the quantum Boltzmann collision operator. *Commun. Math. Sci.*, 10:989-999, 2012 [[link](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0010/0003/a013/)].
+[J4] J. Hu and L. Ying. A fast spectral algorithm for the quantum Boltzmann collision operator. *Commun. Math. Sci.*, 10:989-999, 2012 [[link](https://intlpress.com/JDetail/1806265028892381186)].
 
 [J3] J. Hu, S. Jin, and B. Yan. A numerical scheme for the quantum Fokker-Planck-Landau equation efficient in the fluid regime. *Commun. Comput. Phys.*, 12:1541-1561, 2012 [[link](https://www.cambridge.org/core/journals/communications-in-computational-physics/article/numerical-scheme-for-the-quantum-fokkerplancklandau-equation-efficient-in-the-fluid-regime/0738303CA0EA641F2D50B5CA419D8879)].
 
