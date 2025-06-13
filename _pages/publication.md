@@ -17,13 +17,13 @@ redirect_from:
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
-[J60] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2502.08951)].
+[J60] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
 
-[J59] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2411.09605)].
+[J59] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. *J. Comput. Phys.*, 538:114112, 2025 [[link](https://www.sciencedirect.com/science/article/pii/S002199912500395X)].
 
-[J57] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
+[J58] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme. *J. Comput. Phys.*, 537:114098, 2025 [[link](https://www.sciencedirect.com/science/article/pii/S002199912500381X)].
 
-[J58] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. *Comput. Math. Appl.*, 192:54-71, 2025 [[link](https://www.sciencedirect.com/science/article/pii/S0898122125002068?dgcid=author)].
+[J57] C. Liu, J. Hu, W. Taitano, and X. Zhang. An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations. *Comput. Math. Appl.*, 192:54-71, 2025 [[link](https://www.sciencedirect.com/science/article/pii/S0898122125002068?dgcid=author)].
 
 [J56] J. Hu, S. Van Fleet, and A. Wan. Fully discrete energy-dissipative and conservative discrete gradient particle methods for a class of continuity equations. *SIAM J. Sci. Comput.*, 47:A1835-A1857, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1674054)].
 
