@@ -23,4 +23,4 @@ Some representative examples of my recent work include:
 
 
 ### I gratefully acknowledge the support of NSF, AFOSR, DOE, and PIMS in making this work possible.
-<img src="../images/funding.png" width="650" />
+<img src="../images/funding.png" width="600" />
