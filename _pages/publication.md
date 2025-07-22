@@ -10,13 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP3] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2409.01910)].
+[PP3] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
 
 [PP2] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.16105)].
 
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
+[J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2409.01910)].
+
 [J60] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
 
 [J59] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. *J. Comput. Phys.*, 538:114112, 2025 [[link](https://www.sciencedirect.com/science/article/pii/S002199912500395X)].
