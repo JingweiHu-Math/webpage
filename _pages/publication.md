@@ -19,7 +19,7 @@ redirect_from:
 # Journal Publications
 [J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2409.01910)].
 
-[J60] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, accepted [[arXiv](https://arxiv.org/abs/2405.10392)].
+[J60] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, 23:1763-1788, 2025 [[link](https://intlpress.com/JDetail/1951350643972681729)].
 
 [J59] L. Einkemmer, J. Hu, and S. Zhang. Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation. *J. Comput. Phys.*, 538:114112, 2025 [[link](https://www.sciencedirect.com/science/article/pii/S002199912500395X)].
 
