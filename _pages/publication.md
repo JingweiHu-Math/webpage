@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP3] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
-
-[PP2] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.16105)].
+[PP2] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
 
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
+[J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2408.16105)].
+
 [J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2409.01910)].
 
 [J60] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, 23:1763-1788, 2025 [[link](https://intlpress.com/JDetail/1951350643972681729)].
