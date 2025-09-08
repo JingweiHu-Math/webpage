@@ -15,7 +15,9 @@ redirect_from:
   * Advisor: Prof. [Shi Jin](https://ins.sjtu.edu.cn/people/shijin/#publications)
 
 # Professional Appointments
+* Olga Jung Wan Endowed Professor, Department of Applied Mathematics, University of Washington, 2025-
 * Professor, Department of Applied Mathematics, University of Washington, 2024-
+* Adjunct Professor, William E. Boeing Department of Aeronautics & Astronautics, University of Washington, 2022-
 * Associate Professor, Department of Applied Mathematics, University of Washington, 2021-2024 
 * Associate Professor, Department of Mathematics, School of Aeronautics and Astronautics (by courtesy), Purdue University, 2019-2021
 * Assistant Professor, Department of Mathematics, Purdue University, 2014-2019
