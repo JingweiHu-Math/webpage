@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the Olga Jung Wan Endowed Professor in the [Department of Applied Mathematics](https://amath.washington.edu) at the University of Washington. I also hold an adjunct professorship in the [William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/). My general research interests lie in numerical analysis and scientific computing.
+I am the Olga Jung Wan Endowed Professor in the [Department of Applied Mathematics](https://amath.washington.edu) at the University of Washington, where I also hold an adjunct professorship in the [William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/). My general research interests lie in numerical analysis and scientific computing.
 
 Contact
 ======
