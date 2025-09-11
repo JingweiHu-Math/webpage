@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-Autumn 2025: 401/501 Vector Calculus and Complex Variables
+Autumn 2025: AMATH 401/501 Vector Calculus and Complex Variables
 
 ## Past Teaching at UW
 * AMATH 590 Topic Course: Applied Gradient Flows, Spring 2024
