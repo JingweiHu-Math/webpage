@@ -19,7 +19,7 @@ redirect_from:
 # Journal Publications
 [J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2408.16105)].
 
-[J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2409.01910)].
+[J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, 47:B1343-B1368, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1691818)].
 
 [J60] V. Ilin, J. Hu, and Z. Wang. Transport based particle methods for the Fokker-Planck-Landau equation. *Commun. Math. Sci.*, 23:1763-1788, 2025 [[link](https://intlpress.com/JDetail/1951350643972681729)].
 
