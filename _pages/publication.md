@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP4] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. Submitted, 2025.
+
 [PP3] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2510.03960)].
 
 [PP2] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
