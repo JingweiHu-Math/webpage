@@ -19,7 +19,7 @@ redirect_from:
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
 
 # Journal Publications
-[J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2408.16105)].
+[J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, 47:A3441-A3463, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1689016)].
 
 [J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, 47:B1343-B1368, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1691818)].
 
