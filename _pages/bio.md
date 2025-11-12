@@ -22,7 +22,7 @@ redirect_from:
 * Associate Professor, Department of Mathematics, School of Aeronautics and Astronautics (by courtesy), Purdue University, 2019-2021
 * Assistant Professor, Department of Mathematics, Purdue University, 2014-2019
 * Postdoctoral Fellow, Oden Institute for Computational Engineering & Sciences, Bureau of Economic Geology (BEG), The University of Texas at Austin, 2011-2014
-  * Mentors: Prof. [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/) and Prof. [Lexing Ying](https://web.stanford.edu/~lexing/)
+  * Mentors: Prof. [Lexing Ying](https://web.stanford.edu/~lexing/) and Prof. [Sergey Fomel](http://www.jsg.utexas.edu/researcher/sergey_fomel/)
   
 # Awards
 * Organiser Fellow, Isaac Newton Institute, University of Cambridge, 2022
