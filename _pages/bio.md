@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* B.S. in Computational Mathematics, Peking University, China, 2006
-* Ph.D. in Applied Mathematics, University of Wisconsin-Madison, USA, 2011
+* B.S. in Mathematics, Peking University, China, 2006
+* Ph.D. in Mathematics, University of Wisconsin-Madison, USA, 2011
   * Advisor: Prof. [Shi Jin](https://ins.sjtu.edu.cn/people/shijin/#publications)
 
 # Professional Appointments
