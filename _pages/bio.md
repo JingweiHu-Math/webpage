@@ -35,5 +35,5 @@ redirect_from:
 # Editorial Boards
 * Associate Editor, [SIAM Journal on Applied Mathematics](https://www.siam.org/publications/journals/siam-journal-on-applied-mathematics-siap), 2024-
 * Associate Editor, [Networks and Heterogeneous Media](https://aimspress.com/journal/nhm), 2022- 
-* Associate Editor, [La Matematica](https://www.springer.com/journal/44007/) (official journal of the Association for Women in Mathematics), 2021- 
+* Associate Editor, [La Matematica](https://www.springer.com/journal/44007/), 2021- 
 * Associate Editor, [Kinetic & Related Models](https://www.aimsciences.org/krm), 2019- 
