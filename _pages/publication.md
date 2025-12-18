@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP5] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2512.14950)].
+
 [PP4] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2504.18130)].
 
 [PP3] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2510.03960)].
