@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
-Autumn 2025: AMATH 401/501 Vector Calculus and Complex Variables
+Winter 2026: AMATH 585 Numerical Analysis
 
 ## Past Teaching at UW
 * AMATH 590 Topic Course: Applied Gradient Flows, Spring 2024
 * AMATH 586 Numerical Methods for Partial Differential Equations, Spring 2024, Spring 2025
 * AMATH 585 Numerical Analysis, Winter 2023
 * AMATH 584 Numerical Linear Algebra, Autumn 2021, Autumn 2024
-* AMATH 401/501 Vector Calculus and Complex Variables, Autumn 2022
+* AMATH 401/501 Vector Calculus and Complex Variables, Autumn 2022, Autumn 2025
 
 ## Past Teaching at Purdue
 * MA 692 Topic Course in Applied Math: Introduction to Kinetic Theory, Spring 2016, Spring 2018
