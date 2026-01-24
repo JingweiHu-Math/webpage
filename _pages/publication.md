@@ -10,17 +10,23 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2512.14950)].
+[PP5] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. Submitted, 2026 [[arXiv](https://www.arxiv.org/abs/2601.11900)].
 
-[PP4] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2504.18130)].
+[PP4] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
 
-[PP3] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2510.03960)].
+[PP3] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2512.14950)].
 
-[PP2] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
+[PP2] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2510.03960)].
 
+[PP1] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
+
+<!--
 [PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
+-->
 
 # Journal Publications
+[J63] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Comm. Pure Appl. Math.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
+
 [J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, 47:A3441-A3463, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1689016)].
 
 [J61] Z. Cai, X. Dong, and J. Hu. Symmetric Gauss-Seidel method with a preconditioned fixed-point iteration for the steady-state Boltzmann equation. *SIAM J. Sci. Comput.*, 47:B1343-B1368, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1691818)].
