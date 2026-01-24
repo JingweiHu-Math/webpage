@@ -25,7 +25,7 @@ redirect_from:
 -->
 
 # Journal Publications
-[J63] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Comm. Pure Appl. Math.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
+[J63] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
 
 [J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, 47:A3441-A3463, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1689016)].
 
