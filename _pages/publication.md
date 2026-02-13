@@ -25,7 +25,9 @@ redirect_from:
 -->
 
 # Journal Publications
-[J63] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
+[J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
+
+[J63] E. Vorozhbit, B. Morton, N. Adhikari, A. Alexeenko, and J. Hu. DGFS-BE solver: An open-source discontinuous Galerkin fast spectral solver for the full Boltzmann equation. *SoftwareX*, 102544, 2026[[link](https://www.sciencedirect.com/science/article/pii/S2352711026000385)][[code](https://github.com/DGFSproj/)].
 
 [J62] S. Zhang, J. Shen, and J. Hu. SAV-based entropy-dissipative schemes for a class of kinetic equations. *SIAM J. Sci. Comput.*, 47:A3441-A3463, 2025 [[link](https://epubs.siam.org/doi/10.1137/24M1689016)].
 
