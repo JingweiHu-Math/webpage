@@ -61,3 +61,16 @@ a:focus {
 .masthead__menu-item a:focus {
   color: #000000 !important;
 }
+
+/* Footer contrast improvement */
+
+.page__footer,
+.page__footer a {
+  color: #333333 !important;
+}
+
+.page__footer a:hover,
+.page__footer a:focus {
+  color: #000000 !important;
+  text-decoration: underline;
+}
