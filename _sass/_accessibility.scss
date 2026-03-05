@@ -48,21 +48,16 @@ a:focus {
   outline-offset: 2px;
 }
 
-/* Top navigation (make it match "About Me" link color) */
+/* Top navigation should match the "About Me" text color */
+
 .greedy-nav a,
 .masthead__menu-item a {
-  color: #0b4f9c !important;
+  color: #111111 !important;
 }
 
 .greedy-nav a:hover,
 .greedy-nav a:focus,
 .masthead__menu-item a:hover,
 .masthead__menu-item a:focus {
-  color: #083b74 !important;
-  text-decoration: underline;
-}
-
-/* Optional: make the animated underline match too */
-.greedy-nav .visible-links a:before {
-  background: #0b4f9c !important;
+  color: #000000 !important;
 }
