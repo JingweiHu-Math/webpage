@@ -1,153 +1,123 @@
-/* ==========================================================================
-   Variables
-   ========================================================================== */
+/* ========================================================================== */
+/* Accessibility overrides (charcoal UI + blue links)                          */
+/* ========================================================================== */
 
-/*
-   Typography
-   ========================================================================== */
+$charcoal: #494e52;
+$charcoal-hover: darken($charcoal, 12%);
 
-$doc-font-size              : 16;
+$link-blue: #0b4f9c;
+$link-blue-hover: #083b74;
 
-/* paragraph indention */
-$paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+/* -------------------------------------------------------------------------- */
+/* 1) Make "black-ish" text consistent (charcoal)                              */
+/* -------------------------------------------------------------------------- */
 
-/* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+html, body,
+.page__content,
+.page__content p,
+.page__content li,
+.page__content dt,
+.page__content dd,
+.page__meta,
+.archive__item-excerpt,
+.sidebar,
+.sidebar p,
+.sidebar li,
+.page__footer,
+.footer {
+  color: $charcoal !important;
+}
 
-/* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+/* Headings */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title {
+  color: $charcoal !important;
+}
 
-/* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+/* -------------------------------------------------------------------------- */
+/* 2) Content links: keep dark blue (but NOT the masthead)                     */
+/* -------------------------------------------------------------------------- */
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+/* All normal links */
+a, a:visited {
+  color: $link-blue;
+}
+a:hover, a:focus {
+  color: $link-blue-hover;
+  text-decoration: underline;
+}
 
-/* type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+/* -------------------------------------------------------------------------- */
+/* 3) Masthead / top navigation: force charcoal (override blue)                */
+/* -------------------------------------------------------------------------- */
 
+/* Very specific selectors so the masthead never inherits the global link blue */
+.masthead .greedy-nav a,
+.masthead .masthead__menu-item a,
+.masthead .greedy-nav .visible-links a,
+.masthead .greedy-nav .hidden-links a {
+  color: $charcoal !important;
+  text-decoration: none !important;
+}
 
-/*
-   Colors
-   ========================================================================== */
+.masthead .greedy-nav a:hover,
+.masthead .greedy-nav a:focus,
+.masthead .masthead__menu-item a:hover,
+.masthead .masthead__menu-item a:focus {
+  color: $charcoal-hover !important;
+  text-decoration: none !important; /* keep the top bar clean */
+}
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Optional: make the nav underline animation match charcoal */
+.masthead .greedy-nav .visible-links a:before {
+  background: $charcoal !important;
+}
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+/* -------------------------------------------------------------------------- */
+/* 4) Footer: keep sitemap/link text readable (charcoal)                       */
+/* -------------------------------------------------------------------------- */
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+.page__footer,
+.page__footer a,
+.footer a {
+  color: $charcoal !important;
+}
 
-/* brands */
-$behance-color              : #1769FF;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
+.page__footer a:hover,
+.page__footer a:focus,
+.footer a:hover,
+.footer a:focus {
+  color: $charcoal-hover !important;
+  text-decoration: underline;
+}
 
+/* -------------------------------------------------------------------------- */
+/* 5) Buttons: keep accessible contrast (optional)                             */
+/* -------------------------------------------------------------------------- */
 
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color: $link-color;
-$masthead-link-color-hover: $link-color-hover;
+.btn,
+.btn--primary,
+.btn--info,
+.btn--success,
+.btn--warning,
+.btn--danger {
+  background-color: $link-blue !important;
+  border-color: $link-blue !important;
+  color: #ffffff !important;
+}
 
+.btn:hover,
+.btn:focus {
+  background-color: $link-blue-hover !important;
+  border-color: $link-blue-hover !important;
+}
 
-/*
-   Breakpoints
-   ========================================================================== */
+/* -------------------------------------------------------------------------- */
+/* 6) Focus visibility (keyboard accessibility)                                */
+/* -------------------------------------------------------------------------- */
 
-@include breakpoint-set("to ems", true);
-/*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
-
-$small                      : 600px !default;
-$medium                     : 768px !default;
-$medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
-
-/*
-   Grid
-   ========================================================================== */
-
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
-
-$susy: (
-  columns: 12,
-  column-width: 120px,
-  gutters: 1/4,
-  math: fluid,
-  output: float,
-  gutter-position: after,
-  container: $large,
-  global-box-sizing: border-box,
-  // debug: (
-  //   image: show,
-  //   color: blue,
-  //   output: overlay,
-  //   toggle: top right,
-  // ),
-);
-
-
-/*
-   Other
-   ========================================================================== */
-
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+:focus {
+  outline: 3px solid #ffbf47;
+  outline-offset: 2px;
+}
