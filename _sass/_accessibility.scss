@@ -1,76 +1,152 @@
 /* ========================================================================== */
-/* Accessibility / contrast overrides                                         */
+/* Accessibility + consistent typography palette                               */
+/* - Charcoal for text/UI                                                     */
+/* - Dark blue for links                                                      */
 /* ========================================================================== */
 
-/* Darker, WCAG-friendly link colors */
-a {
-  color: #0b4f9c;
-}
-a:hover,
-a:focus {
-  color: #083b74;
-  text-decoration: underline;
+$charcoal: #494e52;
+$charcoal-hover: darken($charcoal, 12%);
+
+$link-blue: #0b4f9c;
+$link-blue-hover: #083b74;
+
+/* -------------------------------------------------------------------------- */
+/* 1) Global text color: make all "black" look charcoal                        */
+/* -------------------------------------------------------------------------- */
+
+html, body {
+  color: $charcoal !important;
 }
 
-/* Make “muted/meta” text darker (common contrast failure) */
+/* Main content typography */
+.page__content,
+.page__content p,
+.page__content li,
+.page__content dt,
+.page__content dd,
+.page__content blockquote,
+.page__content table,
+.page__content th,
+.page__content td,
+.page__content figcaption {
+  color: $charcoal !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.page__hero-title {
+  color: $charcoal !important;
+}
+
+/* Meta / small text that is often too light */
 .page__meta,
 .page__meta a,
 .archive__item-excerpt,
+.sidebar,
 .sidebar p,
-.sidebar li,
+.sidebar li {
+  color: $charcoal !important;
+}
+
+/* Footer */
+.page__footer,
+.page__footer a,
 .footer,
 .footer a {
-  color: #333333;
+  color: $charcoal !important;
 }
 
-/* Buttons: ensure backgrounds are dark enough */
-.btn {
-  background-color: #0b4f9c; /* replaces default gray button */
-}
-.btn--primary {
-  background-color: #0b4f9c;
-}
-.btn--info {
-  background-color: #0f5e4a; /* darker teal than the default light blue */
-}
-.btn:hover,
-.btn:focus,
-.btn--primary:hover,
-.btn--primary:focus,
-.btn--info:hover,
-.btn--info:focus {
-  filter: brightness(0.9);
-}
-
-/* Visible keyboard focus indicator */
-:focus {
-  outline: 3px solid #ffbf47;
-  outline-offset: 2px;
-}
-
-/* Top navigation should match the "About Me" text color */
+/* -------------------------------------------------------------------------- */
+/* 2) Navigation: charcoal tabs, subtle darker hover                           */
+/* -------------------------------------------------------------------------- */
 
 .greedy-nav a,
 .masthead__menu-item a {
-  color: #111111 !important;
+  color: $charcoal !important;
 }
 
 .greedy-nav a:hover,
 .greedy-nav a:focus,
 .masthead__menu-item a:hover,
 .masthead__menu-item a:focus {
-  color: #000000 !important;
+  color: $charcoal-hover !important;
+  text-decoration: none; /* keep nav clean */
 }
 
-/* Footer contrast improvement */
-
-.page__footer,
-.page__footer a {
-  color: #333333 !important;
+/* Optional: make nav underline/indicator consistent (theme uses :before) */
+.greedy-nav .visible-links a:before {
+  background: $charcoal !important;
 }
 
-.page__footer a:hover,
-.page__footer a:focus {
-  color: #000000 !important;
+/* -------------------------------------------------------------------------- */
+/* 3) Links: keep dark blue site-wide                                          */
+/* -------------------------------------------------------------------------- */
+
+a,
+a:visited {
+  color: $link-blue !important;
+}
+
+a:hover,
+a:focus {
+  color: $link-blue-hover !important;
   text-decoration: underline;
+}
+
+/* If you want links in nav NOT to turn blue due to global a{} rules:
+   put nav rules AFTER link rules. (We already did.) */
+
+/* -------------------------------------------------------------------------- */
+/* 4) Buttons: keep readable contrast (optional)                               */
+/* -------------------------------------------------------------------------- */
+/* If you want buttons to remain blue and accessible: */
+.btn,
+.btn--primary,
+.btn--info,
+.btn--success,
+.btn--warning,
+.btn--danger {
+  background-color: $link-blue !important;
+  border-color: $link-blue !important;
+  color: #ffffff !important;
+}
+
+.btn:hover,
+.btn:focus,
+.btn--primary:hover,
+.btn--primary:focus,
+.btn--info:hover,
+.btn--info:focus {
+  background-color: $link-blue-hover !important;
+  border-color: $link-blue-hover !important;
+  color: #ffffff !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* 5) Focus visibility (keyboard accessibility)                                */
+/* -------------------------------------------------------------------------- */
+
+:focus {
+  outline: 3px solid #ffbf47;
+  outline-offset: 2px;
+}
+
+/* Avoid double focus rings on mouse click in some browsers */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+:focus-visible {
+  outline: 3px solid #ffbf47;
+  outline-offset: 2px;
+}
+
+/* -------------------------------------------------------------------------- */
+/* 6) Optional: small separator to help footer readability                     */
+/* -------------------------------------------------------------------------- */
+
+.page__footer {
+  border-top: 1px solid #e5e5e5;
+  padding-top: 1.25em;
 }
