@@ -1,0 +1,49 @@
+/* ========================================================================== */
+/* Accessibility / contrast overrides                                         */
+/* ========================================================================== */
+
+/* Darker, WCAG-friendly link colors */
+a {
+  color: #0b4f9c;
+}
+a:hover,
+a:focus {
+  color: #083b74;
+  text-decoration: underline;
+}
+
+/* Make “muted/meta” text darker (common contrast failure) */
+.page__meta,
+.page__meta a,
+.archive__item-excerpt,
+.sidebar p,
+.sidebar li,
+.footer,
+.footer a {
+  color: #333333;
+}
+
+/* Buttons: ensure backgrounds are dark enough */
+.btn {
+  background-color: #0b4f9c; /* replaces default gray button */
+}
+.btn--primary {
+  background-color: #0b4f9c;
+}
+.btn--info {
+  background-color: #0f5e4a; /* darker teal than the default light blue */
+}
+.btn:hover,
+.btn:focus,
+.btn--primary:hover,
+.btn--primary:focus,
+.btn--info:hover,
+.btn--info:focus {
+  filter: brightness(0.9);
+}
+
+/* Visible keyboard focus indicator */
+:focus {
+  outline: 3px solid #ffbf47;
+  outline-offset: 2px;
+}
