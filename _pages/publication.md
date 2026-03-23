@@ -10,11 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. Submitted, 2026 [[arXiv](https://www.arxiv.org/abs/2601.11900)].
+[PP4] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. Submitted, 2026 [[arXiv](https://www.arxiv.org/abs/2601.11900)].
 
-[PP4] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
-
-[PP3] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2512.14950)].
+[PP3] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
 
 [PP2] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2510.03960)].
 
@@ -25,6 +23,8 @@ redirect_from:
 -->
 
 # Journal Publications
+[J65] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2512.14950)].
+
 [J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
 
 [J63] E. Vorozhbit, B. Morton, N. Adhikari, A. Alexeenko, and J. Hu. DGFS-BE solver: An open-source discontinuous Galerkin fast spectral solver for the full Boltzmann equation. *SoftwareX*, 102544, 2026 [[link](https://www.sciencedirect.com/science/article/pii/S2352711026000385)][[code](https://github.com/DGFSproj/)].
