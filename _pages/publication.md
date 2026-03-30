@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP5] V. Ilin and J. Hu. A neural score-based particle method for the Vlasov-Maxwell-Landau system. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2603.25832)].
+
 [PP4] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. Submitted, 2026 [[arXiv](https://www.arxiv.org/abs/2601.11900)].
 
 [PP3] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
