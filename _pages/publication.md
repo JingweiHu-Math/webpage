@@ -25,9 +25,9 @@ redirect_from:
 -->
 
 # Journal Publications
-[J65] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. *J. Comput. Phys.*, accepted [[arXiv](https://arxiv.org/abs/2512.14950)].
+[J65] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. *J. Comput. Phys.*, 558:114884, 2026 [[link](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002342)].
 
-[J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, accepted [[arXiv](https://arxiv.org/abs/2504.18130)].
+[J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, early access [[link](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028)].
 
 [J63] E. Vorozhbit, B. Morton, N. Adhikari, A. Alexeenko, and J. Hu. DGFS-BE solver: An open-source discontinuous Galerkin fast spectral solver for the full Boltzmann equation. *SoftwareX*, 102544, 2026 [[link](https://www.sciencedirect.com/science/article/pii/S2352711026000385)][[code](https://github.com/DGFSproj/)].
 
