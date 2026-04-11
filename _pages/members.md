@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Current PhD Students
-* Howard Yu-Hao Cheng (co-supervise with Uri Shumlak)
-* Mark Dunn (co-supervise with Uri Shumlak)
+* Howard Yu-Hao Cheng (co-supervised with Uri Shumlak)
+* Mark Dunn (co-supervised with Uri Shumlak)
 * Vasily Ilin
 * Jiyoung Yoo
 
@@ -20,10 +20,10 @@ redirect_from:
 * Shiheng Zhang
   
 ## Past PhD Students
-* Jack Coughlin, UW 2024 (co-supervise with Uri Shumlak)
+* Jack Coughlin, UW 2024 (co-supervised with Uri Shumlak)
 * Xiaodong Huang, Purdue 2021
 * Yubo Wang, Purdue 2021
-* Shashank Jaiswal, Purdue 2021 (co-supervise with Alina Alexeenko)
+* Shashank Jaiswal, Purdue 2021 (co-supervised with Alina Alexeenko)
 
 ## Past Postdocs
 * Sam Van Fleet, UW (2022-2024)
