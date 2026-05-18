@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] V. Ilin and J. Hu. A neural score-based particle method for the Vlasov-Maxwell-Landau system. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2603.25832)].
+[PP5] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026.
 
-[PP4] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. Submitted, 2026 [[arXiv](https://www.arxiv.org/abs/2601.11900)].
+[PP4] G. Wang and J. Hu. Implicit dynamical tensor train approximation for kinetic equations with stiﬀ Fokker-Planck collisions. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.15382)].
 
-[PP3] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
+[PP3] V. Ilin and J. Hu. A neural score-based particle method for the Vlasov-Maxwell-Landau system. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2603.25832)].
 
-[PP2] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2510.03960)].
+[PP2] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
 
 [PP1] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
 
@@ -25,6 +25,10 @@ redirect_from:
 -->
 
 # Journal Publications
+[J67] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2510.03960)].
+
+[J66] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. *ESAIM: Math. Model. Numer. Anal. (M2AN), accepted [[arXiv](https://www.arxiv.org/abs/2601.11900)].
+
 [J65] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. *J. Comput. Phys.*, 558:114884, 2026 [[link](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002342)].
 
 [J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, early access [[link](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028)].
