@@ -27,7 +27,7 @@ redirect_from:
 # Journal Publications
 [J67] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2510.03960)].
 
-[J66] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. *ESAIM: Math. Model. Numer. Anal. (M2AN), accepted [[arXiv](https://www.arxiv.org/abs/2601.11900)].
+[J66] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. *ESAIM: Math. Model. Numer. Anal. (M2AN)*, accepted [[arXiv](https://www.arxiv.org/abs/2601.11900)].
 
 [J65] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. *J. Comput. Phys.*, 558:114884, 2026 [[link](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002342)].
 
