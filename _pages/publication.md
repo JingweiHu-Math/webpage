@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP5] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026.
+[PP5] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.18542)].
 
 [PP4] G. Wang and J. Hu. Implicit dynamical tensor train approximation for kinetic equations with stiﬀ Fokker-Planck collisions. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.15382)].
 
