@@ -12,6 +12,7 @@ redirect_from:
 # Current PhD Students
 * Howard Yu-Hao Cheng (co-supervised with Uri Shumlak)
 * Mark Dunn (co-supervised with Uri Shumlak)
+* Chengyu (Calvin) Fan
 * Vasily Ilin
 * Jiyoung Yoo
 
