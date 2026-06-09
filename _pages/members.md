@@ -13,7 +13,6 @@ redirect_from:
 * Howard Yu-Hao Cheng (co-supervised with Uri Shumlak)
 * Mark Dunn (co-supervised with Uri Shumlak)
 * Calvin Fan
-* Vasily Ilin
 * Jiyoung Yoo
 
 # Current Postdocs
@@ -21,6 +20,7 @@ redirect_from:
 * Shiheng Zhang
   
 ## Past PhD Students
+* Vasily Ilin, UW 2026
 * Jack Coughlin, UW 2024 (co-supervised with Uri Shumlak)
 * Xiaodong Huang, Purdue 2021
 * Yubo Wang, Purdue 2021
