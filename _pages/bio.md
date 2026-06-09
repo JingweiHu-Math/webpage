@@ -33,6 +33,7 @@ redirect_from:
 * Elizabeth S. Hirschfelder Scholarship, University of Wisconsin-Madison, 2010
 
 # Editorial Boards
+* Associate Editor, [Journal of Computational Physics](https://www.sciencedirect.com/journal/journal-of-computational-physics), 2026-
 * Associate Editor, [SIAM Journal on Applied Mathematics](https://www.siam.org/publications/journals/siam-journal-on-applied-mathematics-siap), 2024-
 * Associate Editor, [Networks and Heterogeneous Media](https://aimspress.com/journal/nhm), 2022-
 * Editorial Board Member, [Journal of Computational and Theoretical Transport](https://www.tandfonline.com/journals/ltty21), 2022-
