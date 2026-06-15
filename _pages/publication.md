@@ -111,7 +111,7 @@ redirect_from:
 
 [J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. *J. Comput. Phys.*, 397:108838, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999119305224)].
 
-[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts (special issue on Direct Simulation Monte Carlo--The Legacy of Graeme A. Bird). *Phys. Fluids*, 31:082002, 2019 [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)].
+[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts (special issue on Direct Simulation Monte Carlo–The Legacy of Graeme A. Bird). *Phys. Fluids*, 31:082002, 2019 [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)].
 
 [J23] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the multi-species Boltzmann equation. *Comput. Methods Appl. Mech. Engrg.*, 352:56-84, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S004578251930218X)][[code](https://github.com/jaisw7/dgfs1D_gpu)].
 
