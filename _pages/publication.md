@@ -31,7 +31,7 @@ redirect_from:
 
 [J65] G. Wang and J. Hu. Dynamical tensor train approximation for kinetic equations. *J. Comput. Phys.*, 558:114884, 2026 [[link](https://www.sciencedirect.com/science/article/abs/pii/S0021999126002342)].
 
-[J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling. *Commun. Pure Appl. Anal.*, early access [[link](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028)].
+[J64] V. Ilin, P. Sushko, and J. Hu. Score-based deterministic density sampling (special issue on transport equations in optimization, sampling, and control). *Commun. Pure Appl. Anal.*, 32:153-170, 2026 [[link](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028)].
 
 [J63] E. Vorozhbit, B. Morton, N. Adhikari, A. Alexeenko, and J. Hu. DGFS-BE solver: An open-source discontinuous Galerkin fast spectral solver for the full Boltzmann equation. *SoftwareX*, 102544, 2026 [[link](https://www.sciencedirect.com/science/article/pii/S2352711026000385)][[code](https://github.com/DGFSproj/)].
 
@@ -111,7 +111,7 @@ redirect_from:
 
 [J25] J. Hu, S. Jin, and R. Shu. On stochastic Galerkin approximation of the nonlinear Boltzmann equation with uncertainty in the fluid regime. *J. Comput. Phys.*, 397:108838, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S0021999119305224)].
 
-[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts (special issue on Direct Simulation Monte Carlo - The Legacy of Graeme A. Bird). *Phys. Fluids*, 31:082002, 2019 [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)].
+[J24] S. Jaiswal, A. Pikus, A. Strongrich, I. Sebastiao, J. Hu, and A. Alexeenko. Quantification of thermally-driven flows in microsystems using Boltzmann equation in deterministic and stochastic contexts (special issue on Direct Simulation Monte Carlo--The Legacy of Graeme A. Bird). *Phys. Fluids*, 31:082002, 2019 [[link](https://aip.scitation.org/doi/abs/10.1063/1.5108665?journalCode=phf)].
 
 [J23] S. Jaiswal, A. Alexeenko, and J. Hu. A discontinuous Galerkin fast spectral method for the multi-species Boltzmann equation. *Comput. Methods Appl. Mech. Engrg.*, 352:56-84, 2019 [[link](https://www.sciencedirect.com/science/article/pii/S004578251930218X)][[code](https://github.com/jaisw7/dgfs1D_gpu)].
 
