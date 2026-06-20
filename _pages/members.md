@@ -20,7 +20,7 @@ redirect_from:
 * Shiheng Zhang
   
 ## Past PhD Students
-* Vasily Ilin, UW 2026
+* Vasily Ilin, UW 2026 (co-supervised with Jarod Alper)
 * Jack Coughlin, UW 2024 (co-supervised with Uri Shumlak)
 * Xiaodong Huang, Purdue 2021
 * Yubo Wang, Purdue 2021
