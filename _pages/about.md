@@ -14,7 +14,6 @@ Email: hujw at uw dot edu\
 Office: Lewis Hall 313\
 Phone (o): +1 (206) 221-1611
 
-
 # Recent News
 <!---
 - I am currently recruiting highly motivated Ph.D. students and postdocs to join my research group. Please send me an email if you are interested.
