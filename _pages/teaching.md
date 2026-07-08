@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Current Teaching at UW
-
+## Current Teaching at UW
 
 ## Past Teaching at UW
 * AMATH 590 Topic Course: Applied Gradient Flows, Spring 2024
