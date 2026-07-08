@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 # NASKE Group
-*Numerical Analysis and Simulation of Kinetic Equations* 
+***N***umerical ***A***nalysis and ***S***imulation of ***K***inetic ***E***quations
 
 ## Current PhD Students
 * Howard Yu-Hao Cheng (co-supervised with Uri Shumlak)
