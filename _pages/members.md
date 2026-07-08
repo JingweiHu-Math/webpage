@@ -11,23 +11,23 @@ redirect_from:
 # NASKE Group
 *Numerical Analysis and Simulation of Kinetic Equations* 
 
-## Current PhD Students
+### Current PhD Students
 * Howard Yu-Hao Cheng (co-supervised with Uri Shumlak)
 * Mark Dunn (co-supervised with Uri Shumlak)
 * Calvin Fan
 * Jiyoung Yoo
 
-## Current Postdocs
+### Current Postdocs
 * Geshuo Wang
 * Shiheng Zhang
   
-## Past PhD Students
+### Past PhD Students
 * Vasily Ilin, UW 2026 (co-supervised with Jarod Alper)
 * Jack Coughlin, UW 2024 (co-supervised with Uri Shumlak)
 * Xiaodong Huang, Purdue 2021
 * Yubo Wang, Purdue 2021
 * Shashank Jaiswal, Purdue 2021 (co-supervised with Alina Alexeenko)
 
-## Past Postdocs
+### Past Postdocs
 * Sam Van Fleet, UW (2022-2024)
 * Zheng Ma, Purdue (2017-2020)
