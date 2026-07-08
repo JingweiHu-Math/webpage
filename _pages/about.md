@@ -9,15 +9,13 @@ redirect_from:
 
 I am the Olga Jung Wan Endowed Professor in the [Department of Applied Mathematics](https://amath.washington.edu) at the University of Washington, where I also hold an adjunct professorship in the [William E. Boeing Department of Aeronautics & Astronautics](https://www.aa.washington.edu/). My general research interests lie in numerical analysis and scientific computing.
 
-Contact
-======
+# Contact
 Email: hujw at uw dot edu\
 Office: Lewis Hall 313\
 Phone (o): +1 (206) 221-1611
 
 
-Recent News
-======
+# Recent News
 <!---
 - I am currently recruiting highly motivated Ph.D. students and postdocs to join my research group. Please send me an email if you are interested.
 - A postdoc position is available in my group supported by the new DOE-funded [Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport](https://charmnet-mmicc.github.io/) (CHaRMNET). If you are interested, please apply [here](https://www.mathjobs.org/jobs/list/20601) and specify in the cover letter that you would like to work with Prof. Hu. 
