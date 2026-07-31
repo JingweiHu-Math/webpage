@@ -12,7 +12,7 @@ redirect_from:
 ***N**umerical **A**nalysis and **S**imulation of **K**inetic **E**quations*
 
 ## Current PhD Students
-* Howard Yu-Hao Cheng (co-supervised with Uri Shumlak)
+* Howard Cheng (co-supervised with Uri Shumlak)
 * Mark Dunn (co-supervised with Uri Shumlak)
 * Calvin Fan
 * Jiyoung Yoo
