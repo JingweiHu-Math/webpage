@@ -17,7 +17,7 @@ Some representative examples of my recent work include:
 * Asymptotic-preserving and positivity-preserving schemes for multiscale hyperbolic and kinetic equations
 * Energy/entropy-dissipative schemes for Fokker-Planck type equations
 * Uncertainty quantification for kinetic equations
-* Dynamical low-rank methods for high-dimensional kinetic equations
+* Dynamical low-rank and tensor methods for high-dimensional kinetic equations
 * Structure-preserving particle methods for kinetic equations
 
 ### I gratefully acknowledge the support of NSF, AFOSR, DOE, and PIMS in making this work possible.
