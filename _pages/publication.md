@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP6] J. Coughlin, U. Shumlak and J. Hu. A perpendicular magnetofluid theory for low-beta plasmas in the drift ordering with arbitrarily low collisionality. Submitted, 2026.
+[PP6] J. Coughlin, U. Shumlak, and J. Hu. A perpendicular magnetofluid theory for low-beta plasmas in the drift ordering with arbitrarily low collisionality. Submitted, 2026.
 
 [PP5] M. Dunn, J. Hu, and U. Shumlak. A multi-species reactive-Boltzmann formulation for self-consistent kinetic simulation of burning fusion plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.21723)].
 
