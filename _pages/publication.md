@@ -10,23 +10,21 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP6] M. Dunn, J. Hu, and U. Shumlak. A multi-species reactive-Boltzmann formulation for self-consistent kinetic simulation of burning fusion plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.21723)].
+[PP6] J. Coughlin, U. Shumlak and J. Hu. A perpendicular magnetofluid theory for low-beta plasmas in the drift ordering with arbitrarily low collisionality. Submitted, 2026.
 
-[PP5] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.18542)].
+[PP5] M. Dunn, J. Hu, and U. Shumlak. A multi-species reactive-Boltzmann formulation for self-consistent kinetic simulation of burning fusion plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.21723)].
 
-[PP4] G. Wang and J. Hu. Implicit dynamical tensor train approximation for kinetic equations with stiﬀ Fokker-Planck collisions. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.15382)].
+[PP4] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.18542)].
 
-[PP3] V. Ilin and J. Hu. A neural score-based particle method for the Vlasov-Maxwell-Landau system. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2603.25832)].
+[PP3] G. Wang and J. Hu. Implicit dynamical tensor train approximation for kinetic equations with stiﬀ Fokker-Planck collisions. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.15382)].
 
-[PP2] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
+[PP2] V. Ilin and J. Hu. A neural score-based particle method for the Vlasov-Maxwell-Landau system. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2603.25832)].
 
-[PP1] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. Submitted, 2025 [[arXiv](https://arxiv.org/abs/2507.15192)].
-
-<!--
-[PP1] J. Coughlin, J. Hu, and U. Shumlak. Asymptotic perpendicular transport in low-beta collisionless plasma. Submitted, 2024 [[arXiv](https://arxiv.org/abs/2408.06559)].
--->
+[PP1] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
 
 # Journal Publications
+[J68] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. *J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2507.15192)].
+
 [J67] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2510.03960)].
 
 [J66] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. *ESAIM: Math. Model. Numer. Anal. (M2AN)*, 60:1715-1739, 2026 [[link](https://www.esaim-m2an.org/articles/m2an/abs/2026/04/m2an260029/m2an260029.html)].
