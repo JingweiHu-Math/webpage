@@ -23,9 +23,9 @@ redirect_from:
 [PP1] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
 
 # Journal Publications
-[J68] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. *J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2507.15192)].
+[J68] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2510.03960)].
 
-[J67] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2510.03960)].
+[J67] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. *J. Sci. Comput.*, 109:47, 2026 [[link](https://link.springer.com/article/10.1007/s10915-026-03464-9)].
 
 [J66] S. Zhang and J. Hu. A separable and asymptotic-preserving dynamical low-rank method for the Vlasov-Poisson-Fokker-Planck system. *ESAIM: Math. Model. Numer. Anal. (M2AN)*, 60:1715-1739, 2026 [[link](https://www.esaim-m2an.org/articles/m2an/abs/2026/04/m2an260029/m2an260029.html)].
 
