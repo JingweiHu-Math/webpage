@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Current Teaching at UW
+* AMATH 584 Numerical Linear Algebra, Autumn 2026 
 
 ## Past Teaching at UW
 * AMATH 590 Topic Course: Applied Gradient Flows, Spring 2024
