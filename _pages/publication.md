@@ -10,9 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP8] C. Fan, N. Crouseilles, and J. Hu. Explicit charge-conserving and modified energy-conserving PIC methods using the SAV approach. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.16028)].
+[PP11] J. Yu, J. Hu, F. Li, S. Tong, Y. Yang, and Z. Shen. Structure-preserving reduced-order modeling via low-rank transport signatures. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.01696)].
 
-[PP7] S. Tong, J. Hu, F. Li, Z. Shen, Y. Yang, and J. Yu. Reduced order model for parametric Boltzmann equation and its application to inverse problems. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2609.02578)].
+[PP10] S. Zhang and J. Hu. A reduced-order model for the high-field Vlasov-Poisson-Fokker-Planck system based on a micro-macro decomposition. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.25569)].
+
+[PP9] C. Fan, N. Crouseilles, and J. Hu. Explicit charge-conserving and modified energy-conserving PIC methods using the SAV approach. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.16028)].
+
+[PP8] S. Tong, J. Hu, F. Li, Z. Shen, Y. Yang, and J. Yu. Reduced order model for parametric Boltzmann equation and its application to inverse problems. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2609.02578)].
+
+[PP7] W. Anderson, J. Yoo, R. Stephany, L. Ricketson, J. Hu, and Y. Choi. CABLE: Convex Aﬃne Blends of Latent Experts for parametric reduced-order modeling. Submitted, 2026 [[HAL](https://hal.science/hal-05736441v1)].
 
 [PP6] J. Coughlin, U. Shumlak, and J. Hu. A perpendicular magnetofluid theory for low-beta plasmas in the drift ordering with arbitrarily low collisionality. Submitted, 2026.
 
