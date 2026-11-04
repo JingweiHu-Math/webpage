@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
+[PP11] J. Yoo and J. Hu. Stabilization of kinetic plasma instabilities via instantaneous external field control. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2611.03720)].
+
 [PP10] J. Yu, J. Hu, F. Li, S. Tong, Y. Yang, and Z. Shen. Structure-preserving reduced-order modeling via low-rank transport signatures. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.01696)].
 
 [PP9] S. Zhang and J. Hu. A reduced-order model for the high-field Vlasov-Poisson-Fokker-Planck system based on a micro-macro decomposition. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.25569)].
