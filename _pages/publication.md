@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP11] S. Zhang and J. Hu. Robust high-order projector-splitting integrators. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2608.17157)].
+[PP11] S. Zhang and J. Hu. Robust high-order projector-splitting integrators. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2608.17157v3)].
 
 [PP10] J. Yoo and J. Hu. Stabilization of kinetic plasma instabilities via instantaneous external field control. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2611.03720)].
 
