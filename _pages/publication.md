@@ -10,29 +10,31 @@ redirect_from:
 {% include base_path %}
 
 # Preprints
-[PP11] J. Yoo and J. Hu. Stabilization of kinetic plasma instabilities via instantaneous external field control. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2611.03720)].
+[PP11] S. Zhang and J. Hu. Robust high-order projector-splitting integrators. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2608.17157)].
 
-[PP10] J. Yu, J. Hu, F. Li, S. Tong, Y. Yang, and Z. Shen. Structure-preserving reduced-order modeling via low-rank transport signatures. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.01696)].
+[PP10] J. Yoo and J. Hu. Stabilization of kinetic plasma instabilities via instantaneous external field control. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2611.03720)].
 
-[PP9] S. Zhang and J. Hu. A reduced-order model for the high-field Vlasov-Poisson-Fokker-Planck system based on a micro-macro decomposition. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.25569)].
+[PP9] J. Yu, J. Hu, F. Li, S. Tong, Y. Yang, and Z. Shen. Structure-preserving reduced-order modeling via low-rank transport signatures. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.01696)].
 
-[PP8] C. Fan, N. Crouseilles, and J. Hu. Explicit charge-conserving and modified energy-conserving PIC methods using the SAV approach. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.16028)].
+[PP8] S. Zhang and J. Hu. A reduced-order model for the high-field Vlasov-Poisson-Fokker-Planck system based on a micro-macro decomposition. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.25569)].
 
-[PP7] S. Tong, J. Hu, F. Li, Z. Shen, Y. Yang, and J. Yu. Reduced order model for parametric Boltzmann equation and its application to inverse problems. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2609.02578)].
+[PP7] C. Fan, N. Crouseilles, and J. Hu. Explicit charge-conserving and modified energy-conserving PIC methods using the SAV approach. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2610.16028)].
 
-[PP6] W. Anderson, J. Yoo, R. Stephany, L. Ricketson, J. Hu, and Y. Choi. CABLE: Convex Aﬃne Blends of Latent Experts for parametric reduced-order modeling. Submitted, 2026 [[HAL](https://hal.science/hal-05736441v1)].
+[PP6] S. Tong, J. Hu, F. Li, Z. Shen, Y. Yang, and J. Yu. Reduced order model for parametric Boltzmann equation and its application to inverse problems. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2609.02578)].
 
-[PP5] M. Dunn, J. Hu, and U. Shumlak. A multi-species reactive-Boltzmann formulation for self-consistent kinetic simulation of burning fusion plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.21723)].
+[PP5] W. Anderson, J. Yoo, R. Stephany, L. Ricketson, J. Hu, and Y. Choi. CABLE: Convex Aﬃne Blends of Latent Experts for parametric reduced-order modeling. Submitted, 2026 [[HAL](https://hal.science/hal-05736441v1)].
 
-[PP4] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.18542)].
+[PP4] M. Dunn, J. Hu, and U. Shumlak. A multi-species reactive-Boltzmann formulation for self-consistent kinetic simulation of burning fusion plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2607.21723)].
 
-[PP3] G. Wang and J. Hu. Implicit dynamical tensor train approximation for kinetic equations with stiﬀ Fokker-Planck collisions. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.15382)].
+[PP3] L. Ricketson and J. Hu. An explicit, energy-conserving particle-in-cell scheme for relativistic plasmas. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2605.18542)].
 
 [PP2] V. Ilin and J. Hu. A neural score-based particle method for the Vlasov-Maxwell-Landau system. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2603.25832)].
 
 [PP1] H. El Kahza, L. Chacon, W. Taitano, J. Qiu, and J. Hu. A structure-preserving penalization method for the single-species Rosenbluth-Fokker-Planck equation. Submitted, 2026 [[arXiv](https://arxiv.org/abs/2601.08006)].
 
 # Journal Publications
+[J69] G. Wang and J. Hu. Implicit dynamical tensor train approximation for kinetic equations with stiﬀ Fokker-Planck collisions. *SIAM J. Sci. Comput.*, accepted [[arXiv](https://arxiv.org/abs/2605.15382)].
+
 [J68] J. Yoo, J. Hu, and L. Ricketson. An explicit energy-conserving particle method for the Vlasov-Fokker-Planck equation. *SIAM J. Sci. Comput.*, 48:A2806-A2832, 2026 [[link](https://epubs.siam.org/doi/10.1137/25M1804157)].
 
 [J67] S. Zhang and J. Hu. On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations. *J. Sci. Comput.*, 109:47, 2026 [[link](https://link.springer.com/article/10.1007/s10915-026-03464-9)].
