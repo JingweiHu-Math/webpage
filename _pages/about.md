@@ -22,5 +22,5 @@ Phone (o): +1 (206) 221-1611
 - To UW students: If you are interested in doing research with me, please feel free to reach out.
 - I am co-organizing the [Applied Mathematics Seminar Series](https://amath.washington.edu/seminar-applied-mathematics) at UW. If you are interested in giving a talk, please let me know.
 --->
-- A postdoctoral position is currently available in my group. Interested candidates are encouraged to apply through Interfolio at https://apply.interfolio.com/196479, where the full position description and application instructions are available. 
+- A postdoctoral position is currently available in my group. Interested candidates are encouraged to apply through Interfolio at (https://apply.interfolio.com/196479), where the full position description and application instructions are available. 
 - Together with Fengyan Li and Sara Pollock, we are organizing a [topical collection](https://link.springer.com/collections/hcicbfjhhe) in *La Matematica* featuring recent advances in numerical analysis and scientific computing. The collection is open for submissions, with no fixed deadline. Please consider submitting your work.
